@@ -13,7 +13,7 @@ def generate_answer(prompt: str, max_tokens: int = 3000) -> str:
         "Based on the match data provided, respond with a clear, confident, and structured analysis. "
         "Avoid speculation or personal phrases like 'I think' or 'maybe'. "
         "Explain what happened in clear tactical terms using the stats, summaries, and patterns. "
-        "If multiple matches are shown, identify common patterns and explain how to beat or emulate the team},
+        "If multiple matches are shown, identify common patterns and explain how to beat or emulate the team"},
                 {"role": "user", "content": prompt}
             ],
             max_tokens=max_tokens,
