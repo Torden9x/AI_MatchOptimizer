@@ -9,3 +9,4 @@ streamlit
 rapidfuzz
 typing 
 OpenAI
+dotenv
