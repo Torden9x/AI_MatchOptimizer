@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 # Load the .env file
-load_dotenv()
+load_dotenv(".env.ai_opta")
 
 # Get the API key from environment
 api_key = os.getenv("OPENAI_API_KEY")
