@@ -2,7 +2,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 # Load the .env file
-load_dotenv(".env.ai_opta")
+load_dotenv(".env")
 print("🔐 API Key:", os.getenv("OPENAI_API_KEY"))
 
 # Get the API key from environment
