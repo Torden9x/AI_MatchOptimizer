@@ -9,7 +9,11 @@ def generate_answer(prompt: str, max_tokens: int = 3000) -> str:
         response = client.chat.completions.create(
             model="gpt-4o-mini-2024-07-18",  # Or "gpt-3.5-turbo"
             messages=[
-                {"role": "system", "content": "You are a professional football tactics analyst."},
+                {"role": "system", "content":  "You are a professional football tactics analyst. "
+        "Based on the match data provided, respond with a clear, confident, and structured analysis. "
+        "Avoid speculation or personal phrases like 'I think' or 'maybe'. "
+        "Explain what happened in clear tactical terms using the stats, summaries, and patterns. "
+        "If multiple matches are shown, identify common patterns and explain how to beat or emulate the team},
                 {"role": "user", "content": prompt}
             ],
             max_tokens=max_tokens,
