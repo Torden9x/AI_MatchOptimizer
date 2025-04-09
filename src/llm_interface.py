@@ -2,11 +2,15 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-# ✅ Load .env file
+# Load the .env file
 load_dotenv()
 
-# 🔐 Get API key securely
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Get the API key from environment
+api_key = os.getenv("OPENAI_API_KEY")
+
+# Create the client with the key
+client = OpenAI(api_key=api_key)
+
 
 def generate_answer(prompt: str, max_tokens: int = 3000) -> str:
     try:
