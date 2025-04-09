@@ -3,9 +3,9 @@ import pandas as pd
 from rapidfuzz import fuzz, process
 from typing import Dict
 # Load player names from CSV
-PLAYER_CSV_PATH = "data\files1\J1 2024_players.csv"
-TEAM_CSV_PATH = "data\files1\J1_teams_with_match_id.csv"
-MATCH_INFO_PATH = "data\files1\match_info.csv"
+PLAYER_CSV_PATH = "data/files1/J1 2024_players.csv"
+TEAM_CSV_PATH = "data/files1/J1_teams_with_match_id.csv"
+MATCH_INFO_PATH = "data/files1/match_info.csv"
 J1_TEAMS = [
     "Urawa Reds", "Kawasaki Frontale", "Yokohama F. Marinos", "Sanfrecce Hiroshima",
     "Avispa Fukuoka", "Nagoya Grampus", "FC Tokyo", "Cerezo Osaka", "Kashima Antlers",
