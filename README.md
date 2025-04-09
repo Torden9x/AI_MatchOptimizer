@@ -70,8 +70,7 @@ AI MatchOptimizer is built to assist **clubs, federations, and scouts** — espe
 ## 🚀 How to Run the Project
 
 ### Option 1: 📡 **Streamlit Community Cloud **
-https://ai-matchoptimizer.streamlit.app
-
+https://aimatchoptimizer.streamlit.app/
 **No local setup needed. Just click & run.**
 
 ---
