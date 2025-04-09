@@ -43,14 +43,17 @@ plt.rcParams['figure.facecolor'] = bg_color
 
 event_data_dir = "Stat"
 match_info_path = os.path.join(event_data_dir, "match_info.csv")
+
 def load_match_info():
     df = pd.read_csv(match_info_path)
-    df["match_file"] = df["match_id"].apply(lambda mid: os.path.join(event_data_dir, f"match_{mid}_.csv"))
+    # Only store the filename, not the full path
+    df["match_file"] = df["match_id"].apply(lambda mid: f"match_{mid}_.csv")
     df["match_name"] = df.apply(
         lambda row: f'{row["home_team"]} vs {row["away_team"]} ({row["home_score"]}-{row["away_score"]})',
         axis=1
     )
     return df
+
 
 # ---- SIDEBAR ----
 st.sidebar.title("📊 Match Report Generator")
