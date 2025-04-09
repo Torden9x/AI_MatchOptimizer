@@ -1,0 +1,315 @@
+{
+  "match_id": "3925235",
+  "team": "Kyoto Sanga FC",
+  "formation": "433",
+  "key_tactical_patterns": [
+    "Tactical shape: 433 with 546 actions in the middle third",
+    "Vertical progression: 63 carries into final third and 143 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 38 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Left - Forwards - Short - Ground Pass": 28,
+        "Defensive third - Center - Forwards - Long - High Pass": 20,
+        "Attacking third - Left - Backwards - Short - Ground Pass": 12
+      },
+      "pass_types": {
+        "Recovery": 63,
+        "Throw-in": 31,
+        "Corner": 5,
+        "Free Kick": 15,
+        "Goal Kick": 10,
+        "Long": 41,
+        "Short": 223,
+        "Defensive": 73,
+        "Center": 69,
+        "Attacking": 61
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 317,
+        "accurate_passes": 185,
+        "inaccurate_passes": 132,
+        "progressive_passes": 143,
+        "progressive_accurate": 59,
+        "progressive_inaccurate": 84
+      },
+      "progressive_pass_possession_percentage": 49.72,
+      "progressive_passes_total": 143,
+      "progressive_passes_accurate": 59,
+      "progressive_passes_inaccurate": 84
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 162,
+        "Final Third - Left": 131,
+        "Final Third - Center": 64
+      },
+      "box_entries": 9,
+      "goal_assists": 0,
+      "shot_assists": 5
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 15,
+      "duel_types": {
+        "Aerial Lost": 34,
+        "Tackle": 22
+      },
+      "interception_outcomes": {
+        "Lost Out": 4,
+        "Won": 2,
+        "Lost In Play": 2,
+        "Success In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 2,
+        "Success To Team": 2
+      },
+      "fouls_won_defensively": 5
+    },
+    "movement": {
+      "first_half_sprints": 53,
+      "second_half_sprints": 63,
+      "sprint_intensity_drop_pct": -18.87,
+      "high_accelerations": 321,
+      "total_running_distance": 90852.78,
+      "under_pressure_actions": 361,
+      "counterpress_actions": 43,
+      "avg_intensity_m_per_min": 92.81,
+      "summary_text": {
+        "first_half_sprints": "53 sprints",
+        "second_half_sprints": "63 sprints",
+        "sprint_intensity_drop": "-18.9%",
+        "total_distance": "90852.78 meters",
+        "avg_intensity": "92.81 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 5,
+      "free_kick_passes": 15,
+      "throw_in_passes": 31,
+      "through_balls": 3,
+      "dummy_passes": 0,
+      "cutback_passes": 0,
+      "crosses": 6,
+      "pass_techniques": {
+        "Through Ball": 3,
+        "Outswinging": 3,
+        "Inswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 6,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1216.07,
+      "into_final_third": 63,
+      "into_penalty_box": 18,
+      "into_zone_14": 7,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 7
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 1,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 0,
+      "penalties_conceded": 1,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.13,
+      "xGOT_total": 1.44,
+      "shot_types": {
+        "Open Play": 11,
+        "Free Kick": 1
+      },
+      "shot_outcomes": {
+        "Saved": 4,
+        "Off T": 3,
+        "Blocked": 3,
+        "Wayward": 1,
+        "Goal": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Kyoto Sanga FC displayed a 433 formation. Tactical highlights include: Tactical shape: 433 with 546 actions in the middle third, Vertical progression: 63 carries into final third and 143 progressive passes, High counterpressing volume, Zone 14 dominance: 38 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 2,
+      "name": "Shinnosuke Fukuda",
+      "position": "RB"
+    },
+    {
+      "jersey": 3,
+      "name": "Shogo Asada",
+      "position": "LCB"
+    },
+    {
+      "jersey": 5,
+      "name": "Hisashi Appiah Tawiah",
+      "position": "RCB"
+    },
+    {
+      "jersey": 7,
+      "name": "Sota Kawasaki",
+      "position": "RCM"
+    },
+    {
+      "jersey": 9,
+      "name": "Marco Túlio Oliveira Lemos",
+      "position": "ST"
+    },
+    {
+      "jersey": 14,
+      "name": "Taichi Hara",
+      "position": "LW"
+    },
+    {
+      "jersey": 16,
+      "name": "Shohei Takeda",
+      "position": "LCM"
+    },
+    {
+      "jersey": 19,
+      "name": "Daiki Kaneko",
+      "position": "CDM"
+    },
+    {
+      "jersey": 23,
+      "name": "Yuta Toyokawa",
+      "position": "RW"
+    },
+    {
+      "jersey": 28,
+      "name": "Toichi Suzuki",
+      "position": "LB"
+    },
+    {
+      "jersey": 94,
+      "name": "Sung-Yun Gu",
+      "position": "GK"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "24 sprints",
+      "total_distance": "14688.73 meters",
+      "m/min": "97.92 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.4 sprints/player",
+      "distance_per_minute": "979.25 meters/min",
+      "avg_sprint_distance": "612.03 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "29 sprints",
+      "total_distance": "14940.65 meters",
+      "m/min": "99.6 meters/min",
+      "sprints_per_minute": "1.93 sprints/min",
+      "sprints_per_player": "2.9 sprints/player",
+      "distance_per_minute": "996.04 meters/min",
+      "avg_sprint_distance": "515.19 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "30 sprints",
+      "total_distance": "14241.67 meters",
+      "m/min": "86.14 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.0 sprints/player",
+      "distance_per_minute": "949.44 meters/min",
+      "avg_sprint_distance": "474.72 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "37 sprints",
+      "total_distance": "16259.28 meters",
+      "m/min": "108.4 meters/min",
+      "sprints_per_minute": "2.47 sprints/min",
+      "sprints_per_player": "3.7 sprints/player",
+      "distance_per_minute": "1083.95 meters/min",
+      "avg_sprint_distance": "439.44 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "26 sprints",
+      "total_distance": "12851.98 meters",
+      "m/min": "85.68 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.6 sprints/player",
+      "distance_per_minute": "856.8 meters/min",
+      "avg_sprint_distance": "494.31 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "30 sprints",
+      "total_distance": "16046.89 meters",
+      "m/min": "82.91 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "2.31 sprints/player",
+      "distance_per_minute": "1069.79 meters/min",
+      "avg_sprint_distance": "534.9 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Sung-Yun Gu",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 47
+      }
+    },
+    "Defender": {
+      "name": "Hisashi Appiah Tawiah",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 2,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Daiki Kaneko",
+      "stats": {
+        "Completed Passes": 111,
+        "Carries into Final Third": 4,
+        "Interceptions": 1,
+        "Duels Won": 1
+      }
+    },
+    "Forward": {
+      "name": "Marco Túlio Oliveira Lemos",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "match_id": "3925231",
+  "team": "Kawasaki Frontale",
+  "formation": "433",
+  "key_tactical_patterns": [
+    "Tactical shape: 433 with 739 actions in the middle third",
+    "Penalty box threat: 35 entries and 38 carries into area",
+    "Vertical progression: 116 carries into final third and 175 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 85 zone actions, including 2 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 44,
+        "Midfield third - Right - Backwards - Short - Ground Pass": 32,
+        "Midfield third - Right - To left - Short - Ground Pass": 31
+      },
+      "pass_types": {
+        "Recovery": 57,
+        "Throw-in": 25,
+        "Corner": 1,
+        "Free Kick": 26,
+        "Goal Kick": 6,
+        "Long": 44,
+        "Short": 482,
+        "Defensive": 146,
+        "Center": 179,
+        "Attacking": 104
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 580,
+        "accurate_passes": 475,
+        "inaccurate_passes": 105,
+        "progressive_passes": 175,
+        "progressive_accurate": 109,
+        "progressive_inaccurate": 66
+      },
+      "progressive_pass_possession_percentage": 55.36,
+      "progressive_passes_total": 175,
+      "progressive_passes_accurate": 109,
+      "progressive_passes_inaccurate": 66
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 321,
+        "Final Third - Center": 122,
+        "Final Third - Left": 110
+      },
+      "box_entries": 35,
+      "goal_assists": 1,
+      "shot_assists": 7
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 16,
+      "duel_types": {
+        "Tackle": 20,
+        "Aerial Lost": 17
+      },
+      "interception_outcomes": {
+        "Success In Play": 4,
+        "Won": 4,
+        "Lost In Play": 3,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 3,
+        "Success To Opposition": 1
+      },
+      "fouls_won_defensively": 7
+    },
+    "movement": {
+      "first_half_sprints": 38,
+      "second_half_sprints": 45,
+      "sprint_intensity_drop_pct": -18.42,
+      "high_accelerations": 252,
+      "total_running_distance": 96397.46,
+      "under_pressure_actions": 314,
+      "counterpress_actions": 65,
+      "avg_intensity_m_per_min": 97.54,
+      "summary_text": {
+        "first_half_sprints": "38 sprints",
+        "second_half_sprints": "45 sprints",
+        "sprint_intensity_drop": "-18.4%",
+        "total_distance": "96397.46 meters",
+        "avg_intensity": "97.54 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 1,
+      "free_kick_passes": 26,
+      "throw_in_passes": 25,
+      "through_balls": 2,
+      "dummy_passes": 1,
+      "cutback_passes": 0,
+      "crosses": 9,
+      "pass_techniques": {
+        "Through Ball": 2
+      },
+      "inswingers": 0,
+      "crosses_total": 9,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1763.65,
+      "into_final_third": 116,
+      "into_penalty_box": 38,
+      "into_zone_14": 19,
+      "leads_to_shot": 0,
+      "leads_to_goal": 1,
+      "dispossessed_at_end": 16
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 2,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.97,
+      "xGOT_total": 1.21,
+      "shot_types": {
+        "Open Play": 9
+      },
+      "shot_outcomes": {
+        "Off T": 3,
+        "Goal": 2,
+        "Blocked": 2,
+        "Saved": 1,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Kawasaki Frontale displayed a 433 formation. Tactical highlights include: Tactical shape: 433 with 739 actions in the middle third, Penalty box threat: 35 entries and 38 carries into area, Vertical progression: 116 carries into final third and 175 progressive passes, High counterpressing volume, Zone 14 dominance: 85 zone actions, including 2 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Sung-Ryong Jung",
+      "position": "GK"
+    },
+    {
+      "jersey": 2,
+      "name": "Kota Takai",
+      "position": "RCB"
+    },
+    {
+      "jersey": 3,
+      "name": "Takuma Ominami",
+      "position": "LCB"
+    },
+    {
+      "jersey": 5,
+      "name": "Asahi Sasaki",
+      "position": "RB"
+    },
+    {
+      "jersey": 8,
+      "name": "Kento Tachibanada",
+      "position": "CDM"
+    },
+    {
+      "jersey": 9,
+      "name": "Erison Danilo de Souza",
+      "position": "ST"
+    },
+    {
+      "jersey": 13,
+      "name": "Sota Miura",
+      "position": "LB"
+    },
+    {
+      "jersey": 14,
+      "name": "Yasuto Wakizaka",
+      "position": "RCM"
+    },
+    {
+      "jersey": 23,
+      "name": "Márcio Augusto da Silva Barbosa",
+      "position": "LW"
+    },
+    {
+      "jersey": 41,
+      "name": "Akihiro Ienaga",
+      "position": "RW"
+    },
+    {
+      "jersey": 77,
+      "name": "Yuki Yamamoto",
+      "position": "LCM"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "26 sprints",
+      "total_distance": "15142.87 meters",
+      "m/min": "112.17 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.89 sprints/player",
+      "distance_per_minute": "1009.52 meters/min",
+      "avg_sprint_distance": "582.42 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "12 sprints",
+      "total_distance": "12970.23 meters",
+      "m/min": "108.09 meters/min",
+      "sprints_per_minute": "0.8 sprints/min",
+      "sprints_per_player": "1.5 sprints/player",
+      "distance_per_minute": "864.68 meters/min",
+      "avg_sprint_distance": "1080.85 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "24 sprints",
+      "total_distance": "17621.78 meters",
+      "m/min": "109.11 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.4 sprints/player",
+      "distance_per_minute": "1174.79 meters/min",
+      "avg_sprint_distance": "734.24 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "26 sprints",
+      "total_distance": "13557.22 meters",
+      "m/min": "100.42 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.89 sprints/player",
+      "distance_per_minute": "903.81 meters/min",
+      "avg_sprint_distance": "521.43 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "19 sprints",
+      "total_distance": "8949.75 meters",
+      "m/min": "74.58 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.38 sprints/player",
+      "distance_per_minute": "596.65 meters/min",
+      "avg_sprint_distance": "471.04 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "19 sprints",
+      "total_distance": "18866.41 meters",
+      "m/min": "85.02 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "1.73 sprints/player",
+      "distance_per_minute": "1257.76 meters/min",
+      "avg_sprint_distance": "992.97 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Sung-Ryong Jung",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 88
+      }
+    },
+    "Defender": {
+      "name": "Asahi Sasaki",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": 0,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Kento Tachibanada",
+      "stats": {
+        "Completed Passes": 230,
+        "Carries into Final Third": 5,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Akihiro Ienaga",
+      "stats": {
+        "Goals": 0,
+        "Assists": 1,
+        "Key Passes": 3,
+        "Carries into Box": 4
+      }
+    }
+  }
+}

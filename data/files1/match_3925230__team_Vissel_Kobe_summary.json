@@ -1,0 +1,318 @@
+{
+  "match_id": "3925230",
+  "team": "Vissel Kobe",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Tactical shape: 4231 with 794 actions in the middle third",
+    "Penalty box threat: 22 entries and 27 carries into area",
+    "Vertical progression: 118 carries into final third and 215 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 56 zone actions, including 2 key passes and 1 assists",
+    "Final third territorial dominance: 661 actions in this area"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To left - Short - Ground Pass": 35,
+        "Midfield third - Left - Forwards - Short - Ground Pass": 31,
+        "Midfield third - Right - To left - Short - Ground Pass": 20
+      },
+      "pass_types": {
+        "Recovery": 70,
+        "Throw-in": 29,
+        "Corner": 8,
+        "Free Kick": 18,
+        "Goal Kick": 3,
+        "Long": 55,
+        "Short": 385,
+        "Defensive": 71,
+        "Center": 117,
+        "Attacking": 121
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 496,
+        "accurate_passes": 346,
+        "inaccurate_passes": 150,
+        "progressive_passes": 215,
+        "progressive_accurate": 108,
+        "progressive_inaccurate": 107
+      },
+      "progressive_pass_possession_percentage": 62.22,
+      "progressive_passes_total": 215,
+      "progressive_passes_accurate": 108,
+      "progressive_passes_inaccurate": 107
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 257,
+        "Final Third - Left": 253,
+        "Final Third - Center": 151
+      },
+      "box_entries": 22,
+      "goal_assists": 1,
+      "shot_assists": 9
+    },
+    "defense": {
+      "offensive_blocks": 1,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 24,
+      "duel_types": {
+        "Aerial Lost": 40,
+        "Tackle": 19
+      },
+      "interception_outcomes": {
+        "Lost In Play": 6,
+        "Won": 3,
+        "Success In Play": 2
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 4,
+        "Success To Opposition": 2,
+        "Success To Team": 1,
+        "Won": 1
+      },
+      "fouls_won_defensively": 9
+    },
+    "movement": {
+      "first_half_sprints": 57,
+      "second_half_sprints": 54,
+      "sprint_intensity_drop_pct": 5.26,
+      "high_accelerations": 239,
+      "total_running_distance": 107057.14,
+      "under_pressure_actions": 395,
+      "counterpress_actions": 78,
+      "avg_intensity_m_per_min": 109.51,
+      "summary_text": {
+        "first_half_sprints": "57 sprints",
+        "second_half_sprints": "54 sprints",
+        "sprint_intensity_drop": "5.3%",
+        "total_distance": "107057.14 meters",
+        "avg_intensity": "109.51 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 8,
+      "free_kick_passes": 18,
+      "throw_in_passes": 29,
+      "through_balls": 1,
+      "dummy_passes": 0,
+      "cutback_passes": 1,
+      "crosses": 30,
+      "pass_techniques": {
+        "Inswinging": 6,
+        "Outswinging": 2,
+        "Through Ball": 1
+      },
+      "inswingers": 6,
+      "crosses_total": 30,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1886.32,
+      "into_final_third": 118,
+      "into_penalty_box": 27,
+      "into_zone_14": 7,
+      "leads_to_shot": 0,
+      "leads_to_goal": 1,
+      "dispossessed_at_end": 6
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 2,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.32,
+      "xGOT_total": 0.74,
+      "shot_types": {
+        "Open Play": 13
+      },
+      "shot_outcomes": {
+        "Blocked": 4,
+        "Saved": 3,
+        "Off T": 3,
+        "Goal": 2,
+        "Wayward": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Vissel Kobe displayed a 4231 formation. Tactical highlights include: Tactical shape: 4231 with 794 actions in the middle third, Penalty box threat: 22 entries and 27 carries into area, Vertical progression: 118 carries into final third and 215 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 56 zone actions, including 2 key passes and 1 assists, Final third territorial dominance: 661 actions in this area.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Daiya Maekawa",
+      "position": "GK"
+    },
+    {
+      "jersey": 3,
+      "name": "Matheus Soares Thuler",
+      "position": "LCB"
+    },
+    {
+      "jersey": 4,
+      "name": "Tetsushi Yamakawa",
+      "position": "RCB"
+    },
+    {
+      "jersey": 6,
+      "name": "Takahiro Ohgihara",
+      "position": "LDM"
+    },
+    {
+      "jersey": 7,
+      "name": "Yosuke Ideguchi",
+      "position": "CAM"
+    },
+    {
+      "jersey": 10,
+      "name": "Yūya Ōsako",
+      "position": "ST"
+    },
+    {
+      "jersey": 14,
+      "name": "Koya Yuruki",
+      "position": "LW"
+    },
+    {
+      "jersey": 19,
+      "name": "Ryo Hatsuse",
+      "position": "LB"
+    },
+    {
+      "jersey": 22,
+      "name": "Daiju Sasaki",
+      "position": "RW"
+    },
+    {
+      "jersey": 24,
+      "name": "Gotoku Sakai",
+      "position": "RB"
+    },
+    {
+      "jersey": 96,
+      "name": "Hotaru Yamaguchi",
+      "position": "RDM"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "39 sprints",
+      "total_distance": "17888.51 meters",
+      "m/min": "119.26 meters/min",
+      "sprints_per_minute": "2.6 sprints/min",
+      "sprints_per_player": "3.9 sprints/player",
+      "distance_per_minute": "1192.57 meters/min",
+      "avg_sprint_distance": "458.68 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "18 sprints",
+      "total_distance": "14039.28 meters",
+      "m/min": "103.99 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "2.0 sprints/player",
+      "distance_per_minute": "935.95 meters/min",
+      "avg_sprint_distance": "779.96 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "26 sprints",
+      "total_distance": "15013.05 meters",
+      "m/min": "108.06 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "3.25 sprints/player",
+      "distance_per_minute": "1000.87 meters/min",
+      "avg_sprint_distance": "577.42 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "28 sprints",
+      "total_distance": "14801.31 meters",
+      "m/min": "109.64 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "3.11 sprints/player",
+      "distance_per_minute": "986.75 meters/min",
+      "avg_sprint_distance": "528.62 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "26 sprints",
+      "total_distance": "14563.53 meters",
+      "m/min": "101.49 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.6 sprints/player",
+      "distance_per_minute": "970.9 meters/min",
+      "avg_sprint_distance": "560.14 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "35 sprints",
+      "total_distance": "22974.67 meters",
+      "m/min": "114.71 meters/min",
+      "sprints_per_minute": "2.33 sprints/min",
+      "sprints_per_player": "3.18 sprints/player",
+      "distance_per_minute": "1531.64 meters/min",
+      "avg_sprint_distance": "656.42 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Daiya Maekawa",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 60
+      }
+    },
+    "Defender": {
+      "name": "Gotoku Sakai",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": true,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Hotaru Yamaguchi",
+      "stats": {
+        "Completed Passes": 115,
+        "Carries into Final Third": 10,
+        "Interceptions": 1,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Daiju Sasaki",
+      "stats": {
+        "Goals": 1,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 7
+      }
+    }
+  }
+}

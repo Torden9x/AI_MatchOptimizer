@@ -1,0 +1,317 @@
+{
+  "match_id": "3925232",
+  "team": "FC Machida Zelvia",
+  "formation": "442",
+  "key_tactical_patterns": [
+    "Created 1.85 xG",
+    "Tactical shape: 442 with 605 actions in the middle third",
+    "Penalty box threat: 11 entries and 19 carries into area",
+    "Vertical progression: 58 carries into final third and 156 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 39 zone actions, including 3 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Defensive third - Center - Forwards - Long - High Pass": 23,
+        "Midfield third - Left - Forwards - Short - Ground Pass": 21,
+        "Midfield third - Left - Forwards - Short - High Pass": 13
+      },
+      "pass_types": {
+        "Recovery": 40,
+        "Throw-in": 20,
+        "Corner": 4,
+        "Free Kick": 12,
+        "Goal Kick": 8,
+        "Long": 48,
+        "Short": 211,
+        "Defensive": 64,
+        "Center": 71,
+        "Attacking": 58
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 297,
+        "accurate_passes": 197,
+        "inaccurate_passes": 100,
+        "progressive_passes": 156,
+        "progressive_accurate": 75,
+        "progressive_inaccurate": 81
+      },
+      "progressive_pass_possession_percentage": 61.54,
+      "progressive_passes_total": 156,
+      "progressive_passes_accurate": 75,
+      "progressive_passes_inaccurate": 81
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 152,
+        "Final Third - Left": 108,
+        "Final Third - Center": 107
+      },
+      "box_entries": 11,
+      "goal_assists": 0,
+      "shot_assists": 10
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 12,
+      "duel_types": {
+        "Aerial Lost": 23,
+        "Tackle": 17
+      },
+      "interception_outcomes": {
+        "Won": 4,
+        "Success In Play": 4,
+        "Lost Out": 3,
+        "Lost In Play": 3
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 4,
+        "Won": 1
+      },
+      "fouls_won_defensively": 2
+    },
+    "movement": {
+      "first_half_sprints": 39,
+      "second_half_sprints": 47,
+      "sprint_intensity_drop_pct": -20.51,
+      "high_accelerations": 286,
+      "total_running_distance": 102196.73,
+      "under_pressure_actions": 198,
+      "counterpress_actions": 41,
+      "avg_intensity_m_per_min": 102.09,
+      "summary_text": {
+        "first_half_sprints": "39 sprints",
+        "second_half_sprints": "47 sprints",
+        "sprint_intensity_drop": "-20.5%",
+        "total_distance": "102196.73 meters",
+        "avg_intensity": "102.09 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 4,
+      "free_kick_passes": 12,
+      "throw_in_passes": 20,
+      "through_balls": 0,
+      "dummy_passes": 0,
+      "cutback_passes": 1,
+      "crosses": 24,
+      "pass_techniques": {
+        "Outswinging": 2,
+        "Inswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 24,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1286.72,
+      "into_final_third": 58,
+      "into_penalty_box": 19,
+      "into_zone_14": 3,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 5
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {
+        "Yellow Card": 1
+      }
+    },
+    "shots": {
+      "xG_total": 1.85,
+      "xGOT_total": 1.02,
+      "shot_types": {
+        "Open Play": 17,
+        "Penalty": 1
+      },
+      "shot_outcomes": {
+        "Blocked": 8,
+        "Off T": 5,
+        "Saved": 3,
+        "Wayward": 1,
+        "Goal": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "FC Machida Zelvia displayed a 442 formation. Tactical highlights include: Created 1.85 xG, Tactical shape: 442 with 605 actions in the middle third, Penalty box threat: 11 entries and 19 carries into area, Vertical progression: 58 carries into final third and 156 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 39 zone actions, including 3 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Kosei Tani",
+      "position": "GK"
+    },
+    {
+      "jersey": 5,
+      "name": "Ibrahim Dresevic",
+      "position": "RCB"
+    },
+    {
+      "jersey": 6,
+      "name": "Junya Suzuki",
+      "position": "RB"
+    },
+    {
+      "jersey": 7,
+      "name": "Yu Hirakawa",
+      "position": "LM"
+    },
+    {
+      "jersey": 8,
+      "name": "Keiya Sento",
+      "position": "LDM"
+    },
+    {
+      "jersey": 10,
+      "name": "Sang-Ho Na",
+      "position": "LCF"
+    },
+    {
+      "jersey": 14,
+      "name": "Min-gyu Jang",
+      "position": "LCB"
+    },
+    {
+      "jersey": 26,
+      "name": "Kotaro Hayashi",
+      "position": "LB"
+    },
+    {
+      "jersey": 39,
+      "name": "Byron Gustavo Andrés Vásquez Maragaño",
+      "position": "RM"
+    },
+    {
+      "jersey": 45,
+      "name": "Kai Shibato",
+      "position": "RDM"
+    },
+    {
+      "jersey": 90,
+      "name": "Se-Hun Oh",
+      "position": "RCF"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "22 sprints",
+      "total_distance": "9564.87 meters",
+      "m/min": "91.09 meters/min",
+      "sprints_per_minute": "1.47 sprints/min",
+      "sprints_per_player": "3.14 sprints/player",
+      "distance_per_minute": "637.66 meters/min",
+      "avg_sprint_distance": "434.77 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "17 sprints",
+      "total_distance": "10693.83 meters",
+      "m/min": "97.06 meters/min",
+      "sprints_per_minute": "1.13 sprints/min",
+      "sprints_per_player": "2.12 sprints/player",
+      "distance_per_minute": "712.92 meters/min",
+      "avg_sprint_distance": "629.05 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "49 sprints",
+      "total_distance": "22895.49 meters",
+      "m/min": "112.14 meters/min",
+      "sprints_per_minute": "3.27 sprints/min",
+      "sprints_per_player": "4.9 sprints/player",
+      "distance_per_minute": "1526.37 meters/min",
+      "avg_sprint_distance": "467.25 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "33 sprints",
+      "total_distance": "16631.29 meters",
+      "m/min": "110.88 meters/min",
+      "sprints_per_minute": "2.2 sprints/min",
+      "sprints_per_player": "3.3 sprints/player",
+      "distance_per_minute": "1108.75 meters/min",
+      "avg_sprint_distance": "503.98 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "14 sprints",
+      "total_distance": "12194.88 meters",
+      "m/min": "104.23 meters/min",
+      "sprints_per_minute": "0.93 sprints/min",
+      "sprints_per_player": "1.75 sprints/player",
+      "distance_per_minute": "812.99 meters/min",
+      "avg_sprint_distance": "871.06 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "26 sprints",
+      "total_distance": "19836.86 meters",
+      "m/min": "115.26 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.6 sprints/player",
+      "distance_per_minute": "1322.46 meters/min",
+      "avg_sprint_distance": "762.96 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Kosei Tani",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 68
+      }
+    },
+    "Defender": {
+      "name": "Ibrahim Dresevic",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": true,
+        "Interceptions": 1,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Byron Gustavo Andrés Vásquez Maragaño",
+      "stats": {
+        "Completed Passes": 110,
+        "Carries into Final Third": 15,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Sang-Ho Na",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 1,
+        "Carries into Box": 4
+      }
+    }
+  }
+}

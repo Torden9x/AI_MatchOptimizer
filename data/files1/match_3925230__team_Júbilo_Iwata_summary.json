@@ -1,0 +1,312 @@
+{
+  "match_id": "3925230",
+  "team": "Júbilo Iwata",
+  "formation": "4411",
+  "key_tactical_patterns": [
+    "Tactical shape: 4411 with 558 actions in the middle third",
+    "Penalty box threat: 26 entries and 24 carries into area",
+    "Vertical progression: 86 carries into final third and 190 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 45 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 33,
+        "Midfield third - Center - To left - Short - Ground Pass": 28,
+        "Midfield third - Right - Forwards - Short - Ground Pass": 25
+      },
+      "pass_types": {
+        "Recovery": 84,
+        "Throw-in": 27,
+        "Corner": 1,
+        "Free Kick": 11,
+        "Goal Kick": 8,
+        "Long": 61,
+        "Short": 393,
+        "Defensive": 147,
+        "Center": 151,
+        "Attacking": 76
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 496,
+        "accurate_passes": 346,
+        "inaccurate_passes": 150,
+        "progressive_passes": 190,
+        "progressive_accurate": 80,
+        "progressive_inaccurate": 110
+      },
+      "progressive_pass_possession_percentage": 57.46,
+      "progressive_passes_total": 190,
+      "progressive_passes_accurate": 80,
+      "progressive_passes_inaccurate": 110
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 214,
+        "Final Third - Left": 100,
+        "Final Third - Center": 81
+      },
+      "box_entries": 26,
+      "goal_assists": 0,
+      "shot_assists": 2
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 1,
+      "headers_on_shots": 0,
+      "aerial_pass_duels_won": 23,
+      "duel_types": {
+        "Aerial Lost": 39,
+        "Tackle": 18
+      },
+      "interception_outcomes": {
+        "Won": 2,
+        "Success In Play": 2,
+        "Lost In Play": 2,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 4,
+        "Success To Team": 3,
+        "Success To Opposition": 1
+      },
+      "fouls_won_defensively": 6
+    },
+    "movement": {
+      "first_half_sprints": 48,
+      "second_half_sprints": 42,
+      "sprint_intensity_drop_pct": 12.5,
+      "high_accelerations": 235,
+      "total_running_distance": 116652.88,
+      "under_pressure_actions": 403,
+      "counterpress_actions": 56,
+      "avg_intensity_m_per_min": 106.55,
+      "summary_text": {
+        "first_half_sprints": "48 sprints",
+        "second_half_sprints": "42 sprints",
+        "sprint_intensity_drop": "12.5%",
+        "total_distance": "116652.88 meters",
+        "avg_intensity": "106.55 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 1,
+      "free_kick_passes": 11,
+      "throw_in_passes": 27,
+      "through_balls": 1,
+      "dummy_passes": 2,
+      "cutback_passes": 0,
+      "crosses": 10,
+      "pass_techniques": {
+        "Outswinging": 1,
+        "Through Ball": 1
+      },
+      "inswingers": 0,
+      "crosses_total": 10,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1617.88,
+      "into_final_third": 86,
+      "into_penalty_box": 24,
+      "into_zone_14": 9,
+      "leads_to_shot": 1,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 8
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 3,
+      "fouls_won_advantage_played": 2,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.18,
+      "xGOT_total": 0.09,
+      "shot_types": {
+        "Open Play": 6
+      },
+      "shot_outcomes": {
+        "Saved": 2,
+        "Blocked": 2,
+        "Off T": 1,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Júbilo Iwata displayed a 4411 formation. Tactical highlights include: Tactical shape: 4411 with 558 actions in the middle third, Penalty box threat: 26 entries and 24 carries into area, Vertical progression: 86 carries into final third and 190 progressive passes, High counterpressing volume, Zone 14 dominance: 45 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Eiji Kawashima",
+      "position": "GK"
+    },
+    {
+      "jersey": 4,
+      "name": "Ko Matsubara",
+      "position": "LB"
+    },
+    {
+      "jersey": 6,
+      "name": "Makito Ito",
+      "position": "RCB"
+    },
+    {
+      "jersey": 7,
+      "name": "Rikiya Uehara",
+      "position": "LDM"
+    },
+    {
+      "jersey": 10,
+      "name": "Hiroki Yamada",
+      "position": "CAM"
+    },
+    {
+      "jersey": 11,
+      "name": "Ryo Germain",
+      "position": "ST"
+    },
+    {
+      "jersey": 14,
+      "name": "Masaya Matsumoto",
+      "position": "RM"
+    },
+    {
+      "jersey": 16,
+      "name": "Leonardo da Silva Gomes",
+      "position": "RDM"
+    },
+    {
+      "jersey": 36,
+      "name": "Ricardo Queiroz de Alencastro Graça",
+      "position": "LCB"
+    },
+    {
+      "jersey": 37,
+      "name": "Rei Hirakawa",
+      "position": "LM"
+    },
+    {
+      "jersey": 50,
+      "name": "Hiroto Uemura",
+      "position": "RB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "32 sprints",
+      "total_distance": "18874.45 meters",
+      "m/min": "125.83 meters/min",
+      "sprints_per_minute": "2.13 sprints/min",
+      "sprints_per_player": "3.2 sprints/player",
+      "distance_per_minute": "1258.3 meters/min",
+      "avg_sprint_distance": "589.83 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "16 sprints",
+      "total_distance": "14980.67 meters",
+      "m/min": "110.97 meters/min",
+      "sprints_per_minute": "1.07 sprints/min",
+      "sprints_per_player": "1.78 sprints/player",
+      "distance_per_minute": "998.71 meters/min",
+      "avg_sprint_distance": "936.29 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "26 sprints",
+      "total_distance": "15979.21 meters",
+      "m/min": "115.01 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "3.25 sprints/player",
+      "distance_per_minute": "1065.28 meters/min",
+      "avg_sprint_distance": "614.59 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "23 sprints",
+      "total_distance": "14827.76 meters",
+      "m/min": "109.84 meters/min",
+      "sprints_per_minute": "1.53 sprints/min",
+      "sprints_per_player": "2.56 sprints/player",
+      "distance_per_minute": "988.52 meters/min",
+      "avg_sprint_distance": "644.69 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "19 sprints",
+      "total_distance": "13211.54 meters",
+      "m/min": "101.78 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.11 sprints/player",
+      "distance_per_minute": "880.77 meters/min",
+      "avg_sprint_distance": "695.34 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "29 sprints",
+      "total_distance": "24681.59 meters",
+      "m/min": "114.83 meters/min",
+      "sprints_per_minute": "1.93 sprints/min",
+      "sprints_per_player": "2.64 sprints/player",
+      "distance_per_minute": "1645.44 meters/min",
+      "avg_sprint_distance": "851.09 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Eiji Kawashima",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 59
+      }
+    },
+    "Defender": {
+      "name": "Hiroto Uemura",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": true,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Leonardo da Silva Gomes",
+      "stats": {
+        "Completed Passes": 87,
+        "Carries into Final Third": 2,
+        "Interceptions": 1,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Hiroki Yamada",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 3
+      }
+    }
+  }
+}

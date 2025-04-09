@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+mplsoccer
+highlight-text
+unidecode
+scipy
+streamlit

@@ -1,0 +1,319 @@
+{
+  "match_id": "3925234",
+  "team": "Tokyo Verdy",
+  "formation": "442",
+  "key_tactical_patterns": [
+    "Tactical shape: 442 with 437 actions in the middle third",
+    "Penalty box threat: 22 entries and 26 carries into area",
+    "Vertical progression: 77 carries into final third and 153 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 41 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Defensive third - Center - Forwards - Long - High Pass": 19,
+        "Midfield third - Center - To left - Short - Ground Pass": 18,
+        "Defensive third - Right - Backwards - Short - Ground Pass": 16
+      },
+      "pass_types": {
+        "Recovery": 33,
+        "Throw-in": 26,
+        "Corner": 6,
+        "Free Kick": 16,
+        "Goal Kick": 7,
+        "Long": 51,
+        "Short": 235,
+        "Defensive": 89,
+        "Center": 89,
+        "Attacking": 75
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 337,
+        "accurate_passes": 233,
+        "inaccurate_passes": 104,
+        "progressive_passes": 153,
+        "progressive_accurate": 76,
+        "progressive_inaccurate": 77
+      },
+      "progressive_pass_possession_percentage": 48.53,
+      "progressive_passes_total": 153,
+      "progressive_passes_accurate": 76,
+      "progressive_passes_inaccurate": 77
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 158,
+        "Final Third - Left": 142,
+        "Final Third - Center": 92
+      },
+      "box_entries": 22,
+      "goal_assists": 0,
+      "shot_assists": 11
+    },
+    "defense": {
+      "offensive_blocks": 1,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 6,
+      "duel_types": {
+        "Tackle": 27,
+        "Aerial Lost": 9
+      },
+      "interception_outcomes": {
+        "Lost Out": 7,
+        "Won": 6,
+        "Lost In Play": 1,
+        "Success In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 2,
+        "Won": 1,
+        "Success To Opposition": 1
+      },
+      "fouls_won_defensively": 3
+    },
+    "movement": {
+      "first_half_sprints": 57,
+      "second_half_sprints": 61,
+      "sprint_intensity_drop_pct": -7.02,
+      "high_accelerations": 303,
+      "total_running_distance": 117048.17,
+      "under_pressure_actions": 349,
+      "counterpress_actions": 66,
+      "avg_intensity_m_per_min": 116.79,
+      "summary_text": {
+        "first_half_sprints": "57 sprints",
+        "second_half_sprints": "61 sprints",
+        "sprint_intensity_drop": "-7.0%",
+        "total_distance": "117048.17 meters",
+        "avg_intensity": "116.79 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 6,
+      "free_kick_passes": 16,
+      "throw_in_passes": 26,
+      "through_balls": 0,
+      "dummy_passes": 1,
+      "cutback_passes": 0,
+      "crosses": 14,
+      "pass_techniques": {
+        "Inswinging": 4,
+        "Outswinging": 2
+      },
+      "inswingers": 4,
+      "crosses_total": 14,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1682.0,
+      "into_final_third": 77,
+      "into_penalty_box": 26,
+      "into_zone_14": 7,
+      "leads_to_shot": 3,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 4
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 2,
+      "offensive_fouls": 0,
+      "penalties_conceded": 1,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {
+        "Yellow Card": 1
+      }
+    },
+    "shots": {
+      "xG_total": 1.32,
+      "xGOT_total": 0.72,
+      "shot_types": {
+        "Open Play": 17,
+        "Free Kick": 1
+      },
+      "shot_outcomes": {
+        "Saved": 6,
+        "Off T": 6,
+        "Blocked": 3,
+        "Wayward": 2,
+        "Goal": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Tokyo Verdy displayed a 442 formation. Tactical highlights include: Tactical shape: 442 with 437 actions in the middle third, Penalty box threat: 22 entries and 26 carries into area, Vertical progression: 77 carries into final third and 153 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 41 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Matheus Caldeira Vidotto de Oliveira",
+      "position": "GK"
+    },
+    {
+      "jersey": 3,
+      "name": "Hiroto Taniguchi",
+      "position": "LCB"
+    },
+    {
+      "jersey": 4,
+      "name": "Naoki Hayashi",
+      "position": "RCB"
+    },
+    {
+      "jersey": 7,
+      "name": "Koki Morita",
+      "position": "RDM"
+    },
+    {
+      "jersey": 8,
+      "name": "Kosuke Saito",
+      "position": "LM"
+    },
+    {
+      "jersey": 9,
+      "name": "Itsuki Someno",
+      "position": "LCF"
+    },
+    {
+      "jersey": 10,
+      "name": "Tomoya Miki",
+      "position": "LDM"
+    },
+    {
+      "jersey": 17,
+      "name": "Tetsuyuki Inami",
+      "position": "RB"
+    },
+    {
+      "jersey": 18,
+      "name": "Fuki Yamada",
+      "position": "RM"
+    },
+    {
+      "jersey": 20,
+      "name": "Yudai Kimura",
+      "position": "RCF"
+    },
+    {
+      "jersey": 22,
+      "name": "Hijiri Onaga",
+      "position": "LB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "18 sprints",
+      "total_distance": "10415.28 meters",
+      "m/min": "99.19 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "2.57 sprints/player",
+      "distance_per_minute": "694.35 meters/min",
+      "avg_sprint_distance": "578.63 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "39 sprints",
+      "total_distance": "19553.38 meters",
+      "m/min": "130.36 meters/min",
+      "sprints_per_minute": "2.6 sprints/min",
+      "sprints_per_player": "3.9 sprints/player",
+      "distance_per_minute": "1303.56 meters/min",
+      "avg_sprint_distance": "501.37 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "48 sprints",
+      "total_distance": "23362.81 meters",
+      "m/min": "122.21 meters/min",
+      "sprints_per_minute": "3.2 sprints/min",
+      "sprints_per_player": "4.8 sprints/player",
+      "distance_per_minute": "1557.52 meters/min",
+      "avg_sprint_distance": "486.73 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "29 sprints",
+      "total_distance": "19767.55 meters",
+      "m/min": "131.85 meters/min",
+      "sprints_per_minute": "1.93 sprints/min",
+      "sprints_per_player": "2.9 sprints/player",
+      "distance_per_minute": "1317.84 meters/min",
+      "avg_sprint_distance": "681.64 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "32 sprints",
+      "total_distance": "17175.66 meters",
+      "m/min": "115.36 meters/min",
+      "sprints_per_minute": "2.13 sprints/min",
+      "sprints_per_player": "2.91 sprints/player",
+      "distance_per_minute": "1145.04 meters/min",
+      "avg_sprint_distance": "536.74 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "37 sprints",
+      "total_distance": "22899.69 meters",
+      "m/min": "105.85 meters/min",
+      "sprints_per_minute": "2.47 sprints/min",
+      "sprints_per_player": "3.7 sprints/player",
+      "distance_per_minute": "1526.65 meters/min",
+      "avg_sprint_distance": "618.91 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Matheus Caldeira Vidotto de Oliveira",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 54
+      }
+    },
+    "Defender": {
+      "name": "Hijiri Onaga",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": 0,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Fuki Yamada",
+      "stats": {
+        "Completed Passes": 82,
+        "Carries into Final Third": 9,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Itsuki Someno",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 1,
+        "Carries into Box": 6
+      }
+    }
+  }
+}

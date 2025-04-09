@@ -1,0 +1,317 @@
+{
+  "match_id": "3925232",
+  "team": "Gamba Osaka",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Tactical shape: 4231 with 502 actions in the middle third",
+    "Penalty box threat: 30 entries and 41 carries into area",
+    "Vertical progression: 159 carries into final third and 194 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 81 zone actions, including 2 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 56,
+        "Midfield third - Center - To left - Short - Ground Pass": 52,
+        "Midfield third - Right - To left - Short - Ground Pass": 35
+      },
+      "pass_types": {
+        "Recovery": 49,
+        "Throw-in": 22,
+        "Corner": 2,
+        "Free Kick": 11,
+        "Goal Kick": 12,
+        "Long": 43,
+        "Short": 520,
+        "Defensive": 103,
+        "Center": 222,
+        "Attacking": 148
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 600,
+        "accurate_passes": 485,
+        "inaccurate_passes": 115,
+        "progressive_passes": 194,
+        "progressive_accurate": 117,
+        "progressive_inaccurate": 77
+      },
+      "progressive_pass_possession_percentage": 57.24,
+      "progressive_passes_total": 194,
+      "progressive_passes_accurate": 117,
+      "progressive_passes_inaccurate": 77
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 285,
+        "Final Third - Left": 164,
+        "Final Third - Center": 142
+      },
+      "box_entries": 30,
+      "goal_assists": 0,
+      "shot_assists": 11
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 1,
+      "headers_on_shots": 0,
+      "aerial_pass_duels_won": 12,
+      "duel_types": {
+        "Aerial Lost": 20,
+        "Tackle": 14
+      },
+      "interception_outcomes": {
+        "Lost In Play": 1,
+        "Won": 1,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Success To Team": 2,
+        "Won": 1,
+        "Success To Opposition": 1,
+        "Lost": 1
+      },
+      "fouls_won_defensively": 5
+    },
+    "movement": {
+      "first_half_sprints": 34,
+      "second_half_sprints": 54,
+      "sprint_intensity_drop_pct": -58.82,
+      "high_accelerations": 280,
+      "total_running_distance": 105840.75,
+      "under_pressure_actions": 321,
+      "counterpress_actions": 27,
+      "avg_intensity_m_per_min": 102.75,
+      "summary_text": {
+        "first_half_sprints": "34 sprints",
+        "second_half_sprints": "54 sprints",
+        "sprint_intensity_drop": "-58.8%",
+        "total_distance": "105840.75 meters",
+        "avg_intensity": "102.75 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 2,
+      "free_kick_passes": 11,
+      "throw_in_passes": 22,
+      "through_balls": 2,
+      "dummy_passes": 0,
+      "cutback_passes": 3,
+      "crosses": 23,
+      "pass_techniques": {
+        "Through Ball": 2,
+        "Inswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 23,
+      "cutbacks": 3,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 1,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 2695.17,
+      "into_final_third": 159,
+      "into_penalty_box": 41,
+      "into_zone_14": 24,
+      "leads_to_shot": 2,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 6
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 0,
+      "penalties_conceded": 1,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 2
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.39,
+      "xGOT_total": 1.78,
+      "shot_types": {
+        "Open Play": 13,
+        "Free Kick": 2
+      },
+      "shot_outcomes": {
+        "Saved": 5,
+        "Off T": 3,
+        "Blocked": 3,
+        "Wayward": 3,
+        "Goal": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Gamba Osaka displayed a 4231 formation. Tactical highlights include: Tactical shape: 4231 with 502 actions in the middle third, Penalty box threat: 30 entries and 41 carries into area, Vertical progression: 159 carries into final third and 194 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 81 zone actions, including 2 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 3,
+      "name": "Riku Handa",
+      "position": "RB"
+    },
+    {
+      "jersey": 4,
+      "name": "Keisuke Kurokawa",
+      "position": "LB"
+    },
+    {
+      "jersey": 5,
+      "name": "Genta Miura",
+      "position": "RCB"
+    },
+    {
+      "jersey": 9,
+      "name": "Kota Yamada",
+      "position": "CAM"
+    },
+    {
+      "jersey": 13,
+      "name": "Isa Sakamoto",
+      "position": "ST"
+    },
+    {
+      "jersey": 15,
+      "name": "Takeru Kishimoto",
+      "position": "RW"
+    },
+    {
+      "jersey": 16,
+      "name": "Tokuma Suzuki",
+      "position": "LDM"
+    },
+    {
+      "jersey": 20,
+      "name": "Shinnosuke Nakatani",
+      "position": "LCB"
+    },
+    {
+      "jersey": 22,
+      "name": "Jun Ichimori",
+      "position": "GK"
+    },
+    {
+      "jersey": 23,
+      "name": "Dawhan Fran Urano Da Purificação Oliveira",
+      "position": "RDM"
+    },
+    {
+      "jersey": 47,
+      "name": "Juan Matheus Alano Nascimento",
+      "position": "LW"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "25 sprints",
+      "total_distance": "11952.94 meters",
+      "m/min": "88.54 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.78 sprints/player",
+      "distance_per_minute": "796.86 meters/min",
+      "avg_sprint_distance": "478.12 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "9 sprints",
+      "total_distance": "8238.41 meters",
+      "m/min": "91.54 meters/min",
+      "sprints_per_minute": "0.6 sprints/min",
+      "sprints_per_player": "1.5 sprints/player",
+      "distance_per_minute": "549.23 meters/min",
+      "avg_sprint_distance": "915.38 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "34 sprints",
+      "total_distance": "23837.96 meters",
+      "m/min": "116.76 meters/min",
+      "sprints_per_minute": "2.27 sprints/min",
+      "sprints_per_player": "3.4 sprints/player",
+      "distance_per_minute": "1589.2 meters/min",
+      "avg_sprint_distance": "701.12 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "30 sprints",
+      "total_distance": "14352.36 meters",
+      "m/min": "110.23 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.0 sprints/player",
+      "distance_per_minute": "956.82 meters/min",
+      "avg_sprint_distance": "478.41 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "24 sprints",
+      "total_distance": "14633.67 meters",
+      "m/min": "99.52 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.18 sprints/player",
+      "distance_per_minute": "975.58 meters/min",
+      "avg_sprint_distance": "609.74 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "30 sprints",
+      "total_distance": "20429.86 meters",
+      "m/min": "109.04 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.33 sprints/player",
+      "distance_per_minute": "1361.99 meters/min",
+      "avg_sprint_distance": "681.0 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Jun Ichimori",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 114
+      }
+    },
+    "Defender": {
+      "name": "Genta Miura",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": true,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Dawhan Fran Urano Da Purificação Oliveira",
+      "stats": {
+        "Completed Passes": 100,
+        "Carries into Final Third": 2,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Isa Sakamoto",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 3
+      }
+    }
+  }
+}

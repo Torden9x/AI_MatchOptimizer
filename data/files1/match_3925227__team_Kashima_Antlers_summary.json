@@ -1,0 +1,314 @@
+{
+  "match_id": "3925227",
+  "team": "Kashima Antlers",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Tactical shape: 4231 with 756 actions in the middle third",
+    "Penalty box threat: 42 entries and 36 carries into area",
+    "Vertical progression: 128 carries into final third and 150 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 80 zone actions, including 1 key passes and 0 assists",
+    "Final third territorial dominance: 616 actions in this area"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Attacking third - Left - Backwards - Short - Ground Pass": 31,
+        "Midfield third - Center - To left - Short - Ground Pass": 27,
+        "Midfield third - Left - To right - Short - Ground Pass": 24
+      },
+      "pass_types": {
+        "Recovery": 38,
+        "Throw-in": 20,
+        "Corner": 9,
+        "Free Kick": 12,
+        "Goal Kick": 5,
+        "Long": 47,
+        "Short": 362,
+        "Defensive": 78,
+        "Center": 108,
+        "Attacking": 124
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 451,
+        "accurate_passes": 352,
+        "inaccurate_passes": 99,
+        "progressive_passes": 150,
+        "progressive_accurate": 81,
+        "progressive_inaccurate": 69
+      },
+      "progressive_pass_possession_percentage": 53.74,
+      "progressive_passes_total": 150,
+      "progressive_passes_accurate": 81,
+      "progressive_passes_inaccurate": 69
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 262,
+        "Final Third - Left": 216,
+        "Final Third - Center": 138
+      },
+      "box_entries": 42,
+      "goal_assists": 3,
+      "shot_assists": 7
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 8,
+      "duel_types": {
+        "Aerial Lost": 32,
+        "Tackle": 18
+      },
+      "interception_outcomes": {
+        "Success In Play": 8,
+        "Won": 8,
+        "Lost In Play": 3,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 4,
+        "Success To Team": 2
+      },
+      "fouls_won_defensively": 5
+    },
+    "movement": {
+      "first_half_sprints": 49,
+      "second_half_sprints": 57,
+      "sprint_intensity_drop_pct": -16.33,
+      "high_accelerations": 274,
+      "total_running_distance": 106291.13,
+      "under_pressure_actions": 372,
+      "counterpress_actions": 58,
+      "avg_intensity_m_per_min": 112.85,
+      "summary_text": {
+        "first_half_sprints": "49 sprints",
+        "second_half_sprints": "57 sprints",
+        "sprint_intensity_drop": "-16.3%",
+        "total_distance": "106291.13 meters",
+        "avg_intensity": "112.85 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 9,
+      "free_kick_passes": 12,
+      "throw_in_passes": 20,
+      "through_balls": 0,
+      "dummy_passes": 2,
+      "cutback_passes": 1,
+      "crosses": 12,
+      "pass_techniques": {
+        "Outswinging": 6,
+        "Inswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 12,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 1,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 2015.13,
+      "into_final_third": 128,
+      "into_penalty_box": 36,
+      "into_zone_14": 17,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 5
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 1,
+      "fouls_won_advantage_played": 2,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.18,
+      "xGOT_total": 2.4,
+      "shot_types": {
+        "Open Play": 15,
+        "Free Kick": 1
+      },
+      "shot_outcomes": {
+        "Off T": 5,
+        "Goal": 3,
+        "Blocked": 3,
+        "Wayward": 3,
+        "Saved": 2
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Kashima Antlers displayed a 4231 formation. Tactical highlights include: Tactical shape: 4231 with 756 actions in the middle third, Penalty box threat: 42 entries and 36 carries into area, Vertical progression: 128 carries into final third and 150 progressive passes, High counterpressing volume, Zone 14 dominance: 80 zone actions, including 1 key passes and 0 assists, Final third territorial dominance: 616 actions in this area.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Tomoki Hayakawa",
+      "position": "GK"
+    },
+    {
+      "jersey": 2,
+      "name": "Koki Anzai",
+      "position": "LB"
+    },
+    {
+      "jersey": 5,
+      "name": "Ikuma Sekigawa",
+      "position": "LCB"
+    },
+    {
+      "jersey": 7,
+      "name": "Aleksandar Čavrić",
+      "position": "ST"
+    },
+    {
+      "jersey": 8,
+      "name": "Shoma Doi",
+      "position": "CAM"
+    },
+    {
+      "jersey": 13,
+      "name": "Kei Chinen",
+      "position": "RDM"
+    },
+    {
+      "jersey": 14,
+      "name": "Yuta Higuchi",
+      "position": "RW"
+    },
+    {
+      "jersey": 25,
+      "name": "Kaishu Sano",
+      "position": "LDM"
+    },
+    {
+      "jersey": 32,
+      "name": "Kimito Nono",
+      "position": "RB"
+    },
+    {
+      "jersey": 33,
+      "name": "Hayato Nakama",
+      "position": "LW"
+    },
+    {
+      "jersey": 55,
+      "name": "Naomichi Ueda",
+      "position": "RCB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "31 sprints",
+      "total_distance": "19111.18 meters",
+      "m/min": "127.41 meters/min",
+      "sprints_per_minute": "2.07 sprints/min",
+      "sprints_per_player": "3.1 sprints/player",
+      "distance_per_minute": "1274.08 meters/min",
+      "avg_sprint_distance": "616.49 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "18 sprints",
+      "total_distance": "14697.5 meters",
+      "m/min": "97.98 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "1.8 sprints/player",
+      "distance_per_minute": "979.83 meters/min",
+      "avg_sprint_distance": "816.53 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "29 sprints",
+      "total_distance": "20358.58 meters",
+      "m/min": "125.93 meters/min",
+      "sprints_per_minute": "1.93 sprints/min",
+      "sprints_per_player": "2.9 sprints/player",
+      "distance_per_minute": "1357.24 meters/min",
+      "avg_sprint_distance": "702.02 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "32 sprints",
+      "total_distance": "17262.71 meters",
+      "m/min": "115.08 meters/min",
+      "sprints_per_minute": "2.13 sprints/min",
+      "sprints_per_player": "3.2 sprints/player",
+      "distance_per_minute": "1150.85 meters/min",
+      "avg_sprint_distance": "539.46 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "25 sprints",
+      "total_distance": "13137.61 meters",
+      "m/min": "104.04 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.5 sprints/player",
+      "distance_per_minute": "875.84 meters/min",
+      "avg_sprint_distance": "525.5 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "21 sprints",
+      "total_distance": "15715.89 meters",
+      "m/min": "109.45 meters/min",
+      "sprints_per_minute": "1.4 sprints/min",
+      "sprints_per_player": "2.62 sprints/player",
+      "distance_per_minute": "1047.73 meters/min",
+      "avg_sprint_distance": "748.38 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Tomoki Hayakawa",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 65
+      }
+    },
+    "Defender": {
+      "name": "Ikuma Sekigawa",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 5,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Kaishu Sano",
+      "stats": {
+        "Completed Passes": 156,
+        "Carries into Final Third": 11,
+        "Interceptions": 0,
+        "Duels Won": 2
+      }
+    },
+    "Forward": {
+      "name": "Aleksandar Čavrić",
+      "stats": {
+        "Goals": 1,
+        "Assists": 1,
+        "Key Passes": 0,
+        "Carries into Box": 3
+      }
+    }
+  }
+}

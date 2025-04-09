@@ -1,0 +1,313 @@
+{
+  "match_id": "3925233",
+  "team": "Sagan Tosu",
+  "formation": "442",
+  "key_tactical_patterns": [
+    "Notable drop in sprint intensity in second half",
+    "Tactical shape: 442 with 1080 actions in the middle third",
+    "Penalty box threat: 17 entries and 23 carries into area",
+    "Vertical progression: 90 carries into final third and 128 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 47 zone actions, including 0 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Defensive third - Center - To left - Short - Ground Pass": 30,
+        "Midfield third - Center - To left - Short - Ground Pass": 29,
+        "Attacking third - Left - Backwards - Short - Ground Pass": 26
+      },
+      "pass_types": {
+        "Recovery": 42,
+        "Throw-in": 16,
+        "Corner": 5,
+        "Free Kick": 10,
+        "Goal Kick": 10,
+        "Long": 27,
+        "Short": 340,
+        "Defensive": 120,
+        "Center": 139,
+        "Attacking": 102
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 400,
+        "accurate_passes": 302,
+        "inaccurate_passes": 98,
+        "progressive_passes": 128,
+        "progressive_accurate": 59,
+        "progressive_inaccurate": 69
+      },
+      "progressive_pass_possession_percentage": 47.4,
+      "progressive_passes_total": 128,
+      "progressive_passes_accurate": 59,
+      "progressive_passes_inaccurate": 69
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Left": 205,
+        "Final Third - Right": 143,
+        "Final Third - Center": 83
+      },
+      "box_entries": 17,
+      "goal_assists": 0,
+      "shot_assists": 8
+    },
+    "defense": {
+      "offensive_blocks": 2,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 3,
+      "aerial_pass_duels_won": 14,
+      "duel_types": {
+        "Tackle": 14,
+        "Aerial Lost": 8
+      },
+      "interception_outcomes": {
+        "Success In Play": 2,
+        "Won": 1,
+        "Lost In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 1
+      },
+      "fouls_won_defensively": 3
+    },
+    "movement": {
+      "first_half_sprints": 55,
+      "second_half_sprints": 36,
+      "sprint_intensity_drop_pct": 34.55,
+      "high_accelerations": 259,
+      "total_running_distance": 116538.88,
+      "under_pressure_actions": 263,
+      "counterpress_actions": 36,
+      "avg_intensity_m_per_min": 104.78,
+      "summary_text": {
+        "first_half_sprints": "55 sprints",
+        "second_half_sprints": "36 sprints",
+        "sprint_intensity_drop": "34.5%",
+        "total_distance": "116538.88 meters",
+        "avg_intensity": "104.78 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 5,
+      "free_kick_passes": 10,
+      "throw_in_passes": 16,
+      "through_balls": 0,
+      "dummy_passes": 0,
+      "cutback_passes": 0,
+      "crosses": 7,
+      "pass_techniques": {
+        "Outswinging": 3,
+        "Inswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 7,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 1,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1269.14,
+      "into_final_third": 90,
+      "into_penalty_box": 23,
+      "into_zone_14": 7,
+      "leads_to_shot": 1,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 3
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 1,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 0,
+      "penalties_conceded": 1,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.21,
+      "xGOT_total": 1.11,
+      "shot_types": {
+        "Open Play": 12
+      },
+      "shot_outcomes": {
+        "Off T": 4,
+        "Blocked": 3,
+        "Saved": 3,
+        "Goal": 1,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Sagan Tosu displayed a 442 formation. Tactical highlights include: Notable drop in sprint intensity in second half, Tactical shape: 442 with 1080 actions in the middle third, Penalty box threat: 17 entries and 23 carries into area, Vertical progression: 90 carries into final third and 128 progressive passes, High counterpressing volume, Zone 14 dominance: 47 zone actions, including 0 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 2,
+      "name": "Kosuke Yamazaki",
+      "position": "RCB"
+    },
+    {
+      "jersey": 5,
+      "name": "So Kawahara",
+      "position": "LDM"
+    },
+    {
+      "jersey": 6,
+      "name": "Akito Fukuta",
+      "position": "RDM"
+    },
+    {
+      "jersey": 20,
+      "name": "Tae-Hyeon Kim",
+      "position": "LCB"
+    },
+    {
+      "jersey": 21,
+      "name": "Yuki Horigome",
+      "position": "LCF"
+    },
+    {
+      "jersey": 28,
+      "name": "Yusuke Maruhashi",
+      "position": "LB"
+    },
+    {
+      "jersey": 41,
+      "name": "Ryonosuke Kabayama",
+      "position": "LM"
+    },
+    {
+      "jersey": 42,
+      "name": "Wataru Harada",
+      "position": "RB"
+    },
+    {
+      "jersey": 71,
+      "name": "Il-Gyu Park",
+      "position": "GK"
+    },
+    {
+      "jersey": 88,
+      "name": "Yoichi Naganuma",
+      "position": "RM"
+    },
+    {
+      "jersey": 99,
+      "name": "Marcelo Ryan Silvestre dos Santos",
+      "position": "RCF"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "30 sprints",
+      "total_distance": "14662.27 meters",
+      "m/min": "108.61 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.33 sprints/player",
+      "distance_per_minute": "977.48 meters/min",
+      "avg_sprint_distance": "488.74 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "25 sprints",
+      "total_distance": "18515.85 meters",
+      "m/min": "123.44 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.5 sprints/player",
+      "distance_per_minute": "1234.39 meters/min",
+      "avg_sprint_distance": "740.63 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "21 sprints",
+      "total_distance": "16355.81 meters",
+      "m/min": "114.75 meters/min",
+      "sprints_per_minute": "1.4 sprints/min",
+      "sprints_per_player": "2.62 sprints/player",
+      "distance_per_minute": "1090.39 meters/min",
+      "avg_sprint_distance": "778.85 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "13 sprints",
+      "total_distance": "6512.57 meters",
+      "m/min": "86.15 meters/min",
+      "sprints_per_minute": "0.87 sprints/min",
+      "sprints_per_player": "1.86 sprints/player",
+      "distance_per_minute": "434.17 meters/min",
+      "avg_sprint_distance": "500.97 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "23 sprints",
+      "total_distance": "17212.25 meters",
+      "m/min": "119.0 meters/min",
+      "sprints_per_minute": "1.53 sprints/min",
+      "sprints_per_player": "2.09 sprints/player",
+      "distance_per_minute": "1147.48 meters/min",
+      "avg_sprint_distance": "748.36 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "32 sprints",
+      "total_distance": "24346.34 meters",
+      "m/min": "100.66 meters/min",
+      "sprints_per_minute": "2.13 sprints/min",
+      "sprints_per_player": "3.2 sprints/player",
+      "distance_per_minute": "1623.09 meters/min",
+      "avg_sprint_distance": "760.82 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Il-Gyu Park",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 108
+      }
+    },
+    "Defender": {
+      "name": "Kosuke Yamazaki",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": 0,
+        "Interceptions": 0,
+        "Fouls Committed": 1
+      }
+    },
+    "Midfielder": {
+      "name": "Akito Fukuta",
+      "stats": {
+        "Completed Passes": 43,
+        "Carries into Final Third": 3,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Marcelo Ryan Silvestre dos Santos",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 1,
+        "Carries into Box": 6
+      }
+    }
+  }
+}

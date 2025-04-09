@@ -1,0 +1,316 @@
+{
+  "match_id": "3925234",
+  "team": "Yokohama F. Marinos",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Tactical shape: 4231 with 608 actions in the middle third",
+    "Penalty box threat: 29 entries and 39 carries into area",
+    "Vertical progression: 136 carries into final third and 196 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 82 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 61,
+        "Midfield third - Center - To left - Short - Ground Pass": 51,
+        "Midfield third - Left - Backwards - Short - Ground Pass": 36
+      },
+      "pass_types": {
+        "Recovery": 49,
+        "Throw-in": 32,
+        "Corner": 5,
+        "Free Kick": 17,
+        "Goal Kick": 11,
+        "Long": 75,
+        "Short": 568,
+        "Defensive": 130,
+        "Center": 215,
+        "Attacking": 138
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 699,
+        "accurate_passes": 588,
+        "inaccurate_passes": 111,
+        "progressive_passes": 196,
+        "progressive_accurate": 131,
+        "progressive_inaccurate": 65
+      },
+      "progressive_pass_possession_percentage": 56.63,
+      "progressive_passes_total": 196,
+      "progressive_passes_accurate": 131,
+      "progressive_passes_inaccurate": 65
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 276,
+        "Final Third - Left": 250,
+        "Final Third - Center": 127
+      },
+      "box_entries": 29,
+      "goal_assists": 1,
+      "shot_assists": 4
+    },
+    "defense": {
+      "offensive_blocks": 2,
+      "goal_saving_blocks": 1,
+      "headers_on_shots": 0,
+      "aerial_pass_duels_won": 7,
+      "duel_types": {
+        "Tackle": 16,
+        "Aerial Lost": 7
+      },
+      "interception_outcomes": {
+        "Won": 3,
+        "Lost Out": 2,
+        "Lost In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 2,
+        "Won": 1,
+        "Success To Team": 1
+      },
+      "fouls_won_defensively": 3
+    },
+    "movement": {
+      "first_half_sprints": 45,
+      "second_half_sprints": 45,
+      "sprint_intensity_drop_pct": 0.0,
+      "high_accelerations": 266,
+      "total_running_distance": 112861.38,
+      "under_pressure_actions": 505,
+      "counterpress_actions": 72,
+      "avg_intensity_m_per_min": 112.99,
+      "summary_text": {
+        "first_half_sprints": "45 sprints",
+        "second_half_sprints": "45 sprints",
+        "sprint_intensity_drop": "0.0%",
+        "total_distance": "112861.38 meters",
+        "avg_intensity": "112.99 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 5,
+      "free_kick_passes": 17,
+      "throw_in_passes": 32,
+      "through_balls": 5,
+      "dummy_passes": 0,
+      "cutback_passes": 1,
+      "crosses": 8,
+      "pass_techniques": {
+        "Through Ball": 5,
+        "Inswinging": 3
+      },
+      "inswingers": 3,
+      "crosses_total": 8,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 2843.51,
+      "into_final_third": 136,
+      "into_penalty_box": 39,
+      "into_zone_14": 20,
+      "leads_to_shot": 0,
+      "leads_to_goal": 1,
+      "dispossessed_at_end": 5
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {
+        "Yellow Card": 1
+      }
+    },
+    "shots": {
+      "xG_total": 1.11,
+      "xGOT_total": 1.03,
+      "shot_types": {
+        "Open Play": 9,
+        "Penalty": 1
+      },
+      "shot_outcomes": {
+        "Blocked": 5,
+        "Off T": 2,
+        "Goal": 2,
+        "Saved": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Yokohama F. Marinos displayed a 4231 formation. Tactical highlights include: Tactical shape: 4231 with 608 actions in the middle third, Penalty box threat: 29 entries and 39 carries into area, Vertical progression: 136 carries into final third and 196 progressive passes, High counterpressing volume, Zone 14 dominance: 82 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "William Popp",
+      "position": "GK"
+    },
+    {
+      "jersey": 5,
+      "name": "Carlos Eduardo Bendini Giusti",
+      "position": "LCB"
+    },
+    {
+      "jersey": 6,
+      "name": "Kota Watanabe",
+      "position": "LDM"
+    },
+    {
+      "jersey": 7,
+      "name": "José Elber Pimentel da Silva",
+      "position": "LW"
+    },
+    {
+      "jersey": 8,
+      "name": "Takuya Kida",
+      "position": "RDM"
+    },
+    {
+      "jersey": 10,
+      "name": "Anderson José Lopes de Souza",
+      "position": "ST"
+    },
+    {
+      "jersey": 15,
+      "name": "Takumi Kamijima",
+      "position": "RCB"
+    },
+    {
+      "jersey": 18,
+      "name": "Kota Mizunuma",
+      "position": "RW"
+    },
+    {
+      "jersey": 27,
+      "name": "Ken Matsubara",
+      "position": "RB"
+    },
+    {
+      "jersey": 28,
+      "name": "Riku Yamane",
+      "position": "CAM"
+    },
+    {
+      "jersey": 39,
+      "name": "Taiki Watanabe",
+      "position": "LB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "17 sprints",
+      "total_distance": "10898.75 meters",
+      "m/min": "90.82 meters/min",
+      "sprints_per_minute": "1.13 sprints/min",
+      "sprints_per_player": "2.12 sprints/player",
+      "distance_per_minute": "726.58 meters/min",
+      "avg_sprint_distance": "641.1 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "28 sprints",
+      "total_distance": "15132.46 meters",
+      "m/min": "126.1 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "3.5 sprints/player",
+      "distance_per_minute": "1008.83 meters/min",
+      "avg_sprint_distance": "540.45 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "36 sprints",
+      "total_distance": "22678.23 meters",
+      "m/min": "118.63 meters/min",
+      "sprints_per_minute": "2.4 sprints/min",
+      "sprints_per_player": "3.6 sprints/player",
+      "distance_per_minute": "1511.88 meters/min",
+      "avg_sprint_distance": "629.95 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "21 sprints",
+      "total_distance": "12245.13 meters",
+      "m/min": "128.73 meters/min",
+      "sprints_per_minute": "1.4 sprints/min",
+      "sprints_per_player": "2.62 sprints/player",
+      "distance_per_minute": "816.34 meters/min",
+      "avg_sprint_distance": "583.1 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "24 sprints",
+      "total_distance": "14341.55 meters",
+      "m/min": "110.07 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.4 sprints/player",
+      "distance_per_minute": "956.1 meters/min",
+      "avg_sprint_distance": "597.56 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "28 sprints",
+      "total_distance": "18157.79 meters",
+      "m/min": "106.96 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "3.11 sprints/player",
+      "distance_per_minute": "1210.52 meters/min",
+      "avg_sprint_distance": "648.49 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "William Popp",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 112
+      }
+    },
+    "Defender": {
+      "name": "Carlos Eduardo Bendini Giusti",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 0,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Kota Watanabe",
+      "stats": {
+        "Completed Passes": 141,
+        "Carries into Final Third": 10,
+        "Interceptions": 0,
+        "Duels Won": 1
+      }
+    },
+    "Forward": {
+      "name": "Anderson José Lopes de Souza",
+      "stats": {
+        "Goals": 1,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 3
+      }
+    }
+  }
+}

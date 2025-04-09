@@ -1,0 +1,312 @@
+{
+  "match_id": "3925229",
+  "team": "Tokyo",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Tactical shape: 4231 with 601 actions in the middle third",
+    "Vertical progression: 57 carries into final third and 154 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 59 zone actions, including 0 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To left - Short - Ground Pass": 26,
+        "Midfield third - Right - Forwards - Short - Ground Pass": 16,
+        "Defensive third - Center - To left - Short - Ground Pass": 16
+      },
+      "pass_types": {
+        "Recovery": 53,
+        "Throw-in": 24,
+        "Corner": 4,
+        "Free Kick": 14,
+        "Goal Kick": 11,
+        "Long": 37,
+        "Short": 261,
+        "Defensive": 96,
+        "Center": 99,
+        "Attacking": 53
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 343,
+        "accurate_passes": 236,
+        "inaccurate_passes": 107,
+        "progressive_passes": 154,
+        "progressive_accurate": 78,
+        "progressive_inaccurate": 76
+      },
+      "progressive_pass_possession_percentage": 47.54,
+      "progressive_passes_total": 154,
+      "progressive_passes_accurate": 78,
+      "progressive_passes_inaccurate": 76
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 181,
+        "Final Third - Left": 139,
+        "Final Third - Center": 90
+      },
+      "box_entries": 8,
+      "goal_assists": 1,
+      "shot_assists": 4
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 0,
+      "aerial_pass_duels_won": 14,
+      "duel_types": {
+        "Aerial Lost": 26,
+        "Tackle": 14
+      },
+      "interception_outcomes": {
+        "Success In Play": 5,
+        "Lost In Play": 5,
+        "Won": 2,
+        "Success Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 3,
+        "Success To Opposition": 1,
+        "Success To Team": 1
+      },
+      "fouls_won_defensively": 7
+    },
+    "movement": {
+      "first_half_sprints": 50,
+      "second_half_sprints": 42,
+      "sprint_intensity_drop_pct": 16.0,
+      "high_accelerations": 277,
+      "total_running_distance": 110506.0,
+      "under_pressure_actions": 360,
+      "counterpress_actions": 63,
+      "avg_intensity_m_per_min": 100.58,
+      "summary_text": {
+        "first_half_sprints": "50 sprints",
+        "second_half_sprints": "42 sprints",
+        "sprint_intensity_drop": "16.0%",
+        "total_distance": "110506.0 meters",
+        "avg_intensity": "100.58 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 4,
+      "free_kick_passes": 14,
+      "throw_in_passes": 24,
+      "through_balls": 0,
+      "dummy_passes": 0,
+      "cutback_passes": 0,
+      "crosses": 7,
+      "pass_techniques": {
+        "Inswinging": 3
+      },
+      "inswingers": 3,
+      "crosses_total": 7,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1306.15,
+      "into_final_third": 57,
+      "into_penalty_box": 18,
+      "into_zone_14": 5,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 6
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 3,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 2
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.11,
+      "xGOT_total": 1.94,
+      "shot_types": {
+        "Open Play": 7
+      },
+      "shot_outcomes": {
+        "Blocked": 2,
+        "Off T": 2,
+        "Goal": 2,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Tokyo displayed a 4231 formation. Tactical highlights include: Tactical shape: 4231 with 601 actions in the middle third, Vertical progression: 57 carries into final third and 154 progressive passes, High counterpressing volume, Zone 14 dominance: 59 zone actions, including 0 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 5,
+      "name": "Yuto Nagatomo",
+      "position": "RB"
+    },
+    {
+      "jersey": 7,
+      "name": "Kuryu Matsuki",
+      "position": "RDM"
+    },
+    {
+      "jersey": 9,
+      "name": "Diego Queiroz de Oliveira",
+      "position": "ST"
+    },
+    {
+      "jersey": 13,
+      "name": "Go Hatano",
+      "position": "GK"
+    },
+    {
+      "jersey": 32,
+      "name": "Kanta Doi",
+      "position": "RCB"
+    },
+    {
+      "jersey": 33,
+      "name": "Kota Tawaratsumida",
+      "position": "LW"
+    },
+    {
+      "jersey": 39,
+      "name": "Teruhito Nakagawa",
+      "position": "RW"
+    },
+    {
+      "jersey": 40,
+      "name": "Riki Harakawa",
+      "position": "LDM"
+    },
+    {
+      "jersey": 44,
+      "name": "Henrique de Souza Trevisan",
+      "position": "LCB"
+    },
+    {
+      "jersey": 49,
+      "name": "Kashif Bangunagande",
+      "position": "LB"
+    },
+    {
+      "jersey": 71,
+      "name": "Ryotaro Araki",
+      "position": "CAM"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "34 sprints",
+      "total_distance": "18409.83 meters",
+      "m/min": "122.73 meters/min",
+      "sprints_per_minute": "2.27 sprints/min",
+      "sprints_per_player": "3.4 sprints/player",
+      "distance_per_minute": "1227.32 meters/min",
+      "avg_sprint_distance": "541.47 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "16 sprints",
+      "total_distance": "12726.52 meters",
+      "m/min": "106.05 meters/min",
+      "sprints_per_minute": "1.07 sprints/min",
+      "sprints_per_player": "2.0 sprints/player",
+      "distance_per_minute": "848.43 meters/min",
+      "avg_sprint_distance": "795.41 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "35 sprints",
+      "total_distance": "19471.64 meters",
+      "m/min": "113.65 meters/min",
+      "sprints_per_minute": "2.33 sprints/min",
+      "sprints_per_player": "3.5 sprints/player",
+      "distance_per_minute": "1298.11 meters/min",
+      "avg_sprint_distance": "556.33 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "17 sprints",
+      "total_distance": "13650.13 meters",
+      "m/min": "113.75 meters/min",
+      "sprints_per_minute": "1.13 sprints/min",
+      "sprints_per_player": "2.12 sprints/player",
+      "distance_per_minute": "910.01 meters/min",
+      "avg_sprint_distance": "802.95 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "25 sprints",
+      "total_distance": "11189.32 meters",
+      "m/min": "97.78 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.78 sprints/player",
+      "distance_per_minute": "745.95 meters/min",
+      "avg_sprint_distance": "447.57 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "30 sprints",
+      "total_distance": "19690.45 meters",
+      "m/min": "92.63 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.0 sprints/player",
+      "distance_per_minute": "1312.7 meters/min",
+      "avg_sprint_distance": "656.35 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Go Hatano",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 69
+      }
+    },
+    "Defender": {
+      "name": "Henrique de Souza Trevisan",
+      "stats": {
+        "Duels Won": 1,
+        "Aerial Clearances": 0,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Kuryu Matsuki",
+      "stats": {
+        "Completed Passes": 157,
+        "Carries into Final Third": 7,
+        "Interceptions": 3,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Diego Queiroz de Oliveira",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 1
+      }
+    }
+  }
+}

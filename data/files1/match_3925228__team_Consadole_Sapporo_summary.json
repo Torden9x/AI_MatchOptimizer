@@ -1,0 +1,314 @@
+{
+  "match_id": "3925228",
+  "team": "Consadole Sapporo",
+  "formation": "3421",
+  "key_tactical_patterns": [
+    "Tactical shape: 3421 with 733 actions in the middle third",
+    "Penalty box threat: 63 entries and 54 carries into area",
+    "Vertical progression: 179 carries into final third and 205 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 100 zone actions, including 0 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To left - Short - Ground Pass": 57,
+        "Midfield third - Center - To right - Short - Ground Pass": 47,
+        "Midfield third - Right - Forwards - Short - Ground Pass": 42
+      },
+      "pass_types": {
+        "Recovery": 62,
+        "Throw-in": 21,
+        "Corner": 2,
+        "Free Kick": 12,
+        "Goal Kick": 8,
+        "Long": 47,
+        "Short": 653,
+        "Defensive": 170,
+        "Center": 248,
+        "Attacking": 171
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 736,
+        "accurate_passes": 613,
+        "inaccurate_passes": 123,
+        "progressive_passes": 205,
+        "progressive_accurate": 125,
+        "progressive_inaccurate": 80
+      },
+      "progressive_pass_possession_percentage": 60.0,
+      "progressive_passes_total": 205,
+      "progressive_passes_accurate": 125,
+      "progressive_passes_inaccurate": 80
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 388,
+        "Final Third - Left": 166,
+        "Final Third - Center": 148
+      },
+      "box_entries": 63,
+      "goal_assists": 0,
+      "shot_assists": 7
+    },
+    "defense": {
+      "offensive_blocks": 1,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 6,
+      "duel_types": {
+        "Aerial Lost": 25,
+        "Tackle": 18
+      },
+      "interception_outcomes": {
+        "Won": 3,
+        "Success In Play": 2,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Won": 1,
+        "Success To Team": 1,
+        "Lost": 1
+      },
+      "fouls_won_defensively": 2
+    },
+    "movement": {
+      "first_half_sprints": 48,
+      "second_half_sprints": 51,
+      "sprint_intensity_drop_pct": -6.25,
+      "high_accelerations": 295,
+      "total_running_distance": 103924.42,
+      "under_pressure_actions": 379,
+      "counterpress_actions": 53,
+      "avg_intensity_m_per_min": 101.83,
+      "summary_text": {
+        "first_half_sprints": "48 sprints",
+        "second_half_sprints": "51 sprints",
+        "sprint_intensity_drop": "-6.2%",
+        "total_distance": "103924.42 meters",
+        "avg_intensity": "101.83 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 2,
+      "free_kick_passes": 12,
+      "throw_in_passes": 21,
+      "through_balls": 0,
+      "dummy_passes": 0,
+      "cutback_passes": 1,
+      "crosses": 16,
+      "pass_techniques": {
+        "Inswinging": 1,
+        "Outswinging": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 16,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 3102.73,
+      "into_final_third": 179,
+      "into_penalty_box": 54,
+      "into_zone_14": 30,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 4
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 3,
+      "fouls_won_advantage_played": 3,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {
+        "Handball": 1
+      },
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.47,
+      "xGOT_total": 0.13,
+      "shot_types": {
+        "Open Play": 9
+      },
+      "shot_outcomes": {
+        "Off T": 3,
+        "Saved": 3,
+        "Blocked": 2,
+        "Wayward": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Consadole Sapporo displayed a 3421 formation. Tactical highlights include: Tactical shape: 3421 with 733 actions in the middle third, Penalty box threat: 63 entries and 54 carries into area, Vertical progression: 179 carries into final third and 205 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 100 zone actions, including 0 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Takanori Sugeno",
+      "position": "GK"
+    },
+    {
+      "jersey": 4,
+      "name": "Daiki Suga",
+      "position": "LWB"
+    },
+    {
+      "jersey": 6,
+      "name": "Toya Nakamura",
+      "position": "LCB"
+    },
+    {
+      "jersey": 10,
+      "name": "Hiroki Miyazawa",
+      "position": "LDM"
+    },
+    {
+      "jersey": 14,
+      "name": "Yoshiaki Komai",
+      "position": "RAM"
+    },
+    {
+      "jersey": 19,
+      "name": "Supachok Sarachat",
+      "position": "LAM"
+    },
+    {
+      "jersey": 27,
+      "name": "Takuma Arano",
+      "position": "RDM"
+    },
+    {
+      "jersey": 33,
+      "name": "Tomoki Kondo",
+      "position": "RWB"
+    },
+    {
+      "jersey": 50,
+      "name": "Daihachi Okamura",
+      "position": "CB"
+    },
+    {
+      "jersey": 88,
+      "name": "Seiya Baba",
+      "position": "RCB"
+    },
+    {
+      "jersey": 99,
+      "name": "Yuki Kobayashi",
+      "position": "ST"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "26 sprints",
+      "total_distance": "17112.36 meters",
+      "m/min": "114.08 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.6 sprints/player",
+      "distance_per_minute": "1140.82 meters/min",
+      "avg_sprint_distance": "658.17 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "22 sprints",
+      "total_distance": "11553.67 meters",
+      "m/min": "96.28 meters/min",
+      "sprints_per_minute": "1.47 sprints/min",
+      "sprints_per_player": "2.75 sprints/player",
+      "distance_per_minute": "770.24 meters/min",
+      "avg_sprint_distance": "525.17 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "19 sprints",
+      "total_distance": "14293.92 meters",
+      "m/min": "98.81 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.71 sprints/player",
+      "distance_per_minute": "952.93 meters/min",
+      "avg_sprint_distance": "752.31 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "25 sprints",
+      "total_distance": "12787.72 meters",
+      "m/min": "88.3 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.5 sprints/player",
+      "distance_per_minute": "852.51 meters/min",
+      "avg_sprint_distance": "511.51 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "26 sprints",
+      "total_distance": "15080.28 meters",
+      "m/min": "111.71 meters/min",
+      "sprints_per_minute": "1.73 sprints/min",
+      "sprints_per_player": "2.89 sprints/player",
+      "distance_per_minute": "1005.35 meters/min",
+      "avg_sprint_distance": "580.01 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "18 sprints",
+      "total_distance": "18139.3 meters",
+      "m/min": "110.53 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "2.0 sprints/player",
+      "distance_per_minute": "1209.29 meters/min",
+      "avg_sprint_distance": "1007.74 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Takanori Sugeno",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 168
+      }
+    },
+    "Defender": {
+      "name": "Daihachi Okamura",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 2,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Hiroki Miyazawa",
+      "stats": {
+        "Completed Passes": 146,
+        "Carries into Final Third": 1,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Supachok Sarachat",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 3,
+        "Carries into Box": 13
+      }
+    }
+  }
+}

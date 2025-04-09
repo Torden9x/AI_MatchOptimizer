@@ -1,0 +1,310 @@
+{
+  "match_id": "3925228",
+  "team": "Avispa Fukuoka",
+  "formation": "343",
+  "key_tactical_patterns": [
+    "Tactical shape: 343 with 746 actions in the middle third",
+    "Penalty box threat: 22 entries and 21 carries into area",
+    "Vertical progression: 80 carries into final third and 160 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 59 zone actions, including 2 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Left - Forwards - Short - Ground Pass": 40,
+        "Midfield third - Left - Backwards - Short - Ground Pass": 25,
+        "Midfield third - Center - To right - Short - Ground Pass": 24
+      },
+      "pass_types": {
+        "Recovery": 51,
+        "Throw-in": 19,
+        "Corner": 2,
+        "Free Kick": 10,
+        "Goal Kick": 8,
+        "Long": 57,
+        "Short": 319,
+        "Defensive": 84,
+        "Center": 120,
+        "Attacking": 70
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 408,
+        "accurate_passes": 310,
+        "inaccurate_passes": 98,
+        "progressive_passes": 160,
+        "progressive_accurate": 97,
+        "progressive_inaccurate": 63
+      },
+      "progressive_pass_possession_percentage": 57.5,
+      "progressive_passes_total": 160,
+      "progressive_passes_accurate": 97,
+      "progressive_passes_inaccurate": 63
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 169,
+        "Final Third - Left": 156,
+        "Final Third - Center": 100
+      },
+      "box_entries": 22,
+      "goal_assists": 0,
+      "shot_assists": 6
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 19,
+      "duel_types": {
+        "Tackle": 17,
+        "Aerial Lost": 11
+      },
+      "interception_outcomes": {
+        "Success In Play": 6,
+        "Lost Out": 2,
+        "Won": 2,
+        "Lost In Play": 2
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 2,
+        "Success To Team": 1
+      },
+      "fouls_won_defensively": 4
+    },
+    "movement": {
+      "first_half_sprints": 54,
+      "second_half_sprints": 68,
+      "sprint_intensity_drop_pct": -25.93,
+      "high_accelerations": 304,
+      "total_running_distance": 105255.95,
+      "under_pressure_actions": 362,
+      "counterpress_actions": 42,
+      "avg_intensity_m_per_min": 104.36,
+      "summary_text": {
+        "first_half_sprints": "54 sprints",
+        "second_half_sprints": "68 sprints",
+        "sprint_intensity_drop": "-25.9%",
+        "total_distance": "105255.95 meters",
+        "avg_intensity": "104.36 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 2,
+      "free_kick_passes": 10,
+      "throw_in_passes": 19,
+      "through_balls": 1,
+      "dummy_passes": 0,
+      "cutback_passes": 0,
+      "crosses": 8,
+      "pass_techniques": {
+        "Inswinging": 1,
+        "Through Ball": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 8,
+      "cutbacks": 0,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1325.23,
+      "into_final_third": 80,
+      "into_penalty_box": 21,
+      "into_zone_14": 11,
+      "leads_to_shot": 2,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 9
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 3,
+      "fouls_won_advantage_played": 3,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.58,
+      "xGOT_total": 0.33,
+      "shot_types": {
+        "Open Play": 9
+      },
+      "shot_outcomes": {
+        "Off T": 4,
+        "Blocked": 3,
+        "Saved": 2
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Avispa Fukuoka displayed a 343 formation. Tactical highlights include: Tactical shape: 343 with 746 actions in the middle third, Penalty box threat: 22 entries and 21 carries into area, Vertical progression: 80 carries into final third and 160 progressive passes, High counterpressing volume, Zone 14 dominance: 59 zone actions, including 2 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Takumi Nagaishi",
+      "position": "GK"
+    },
+    {
+      "jersey": 3,
+      "name": "Tatsuki Nara",
+      "position": "CB"
+    },
+    {
+      "jersey": 4,
+      "name": "Seiya Inoue",
+      "position": "RCB"
+    },
+    {
+      "jersey": 6,
+      "name": "Hiroyuki Mae",
+      "position": "LDM"
+    },
+    {
+      "jersey": 8,
+      "name": "Kazuya Konno",
+      "position": "RW"
+    },
+    {
+      "jersey": 16,
+      "name": "Itsuki Oda",
+      "position": "LWB"
+    },
+    {
+      "jersey": 17,
+      "name": "Wellington Luis de Sousa",
+      "position": "ST"
+    },
+    {
+      "jersey": 18,
+      "name": "Yuto Iwasaki",
+      "position": "LW"
+    },
+    {
+      "jersey": 29,
+      "name": "Yota Maejima",
+      "position": "RWB"
+    },
+    {
+      "jersey": 30,
+      "name": "Masato Shigemi",
+      "position": "RDM"
+    },
+    {
+      "jersey": 37,
+      "name": "Masaya Tashiro",
+      "position": "LCB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "24 sprints",
+      "total_distance": "15238.65 meters",
+      "m/min": "112.88 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.67 sprints/player",
+      "distance_per_minute": "1015.91 meters/min",
+      "avg_sprint_distance": "634.94 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "30 sprints",
+      "total_distance": "14153.65 meters",
+      "m/min": "94.36 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.0 sprints/player",
+      "distance_per_minute": "943.58 meters/min",
+      "avg_sprint_distance": "471.79 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "24 sprints",
+      "total_distance": "18313.59 meters",
+      "m/min": "98.46 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.67 sprints/player",
+      "distance_per_minute": "1220.91 meters/min",
+      "avg_sprint_distance": "763.07 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "33 sprints",
+      "total_distance": "12457.6 meters",
+      "m/min": "92.28 meters/min",
+      "sprints_per_minute": "2.2 sprints/min",
+      "sprints_per_player": "3.67 sprints/player",
+      "distance_per_minute": "830.51 meters/min",
+      "avg_sprint_distance": "377.5 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "35 sprints",
+      "total_distance": "15536.6 meters",
+      "m/min": "116.49 meters/min",
+      "sprints_per_minute": "2.33 sprints/min",
+      "sprints_per_player": "3.5 sprints/player",
+      "distance_per_minute": "1035.77 meters/min",
+      "avg_sprint_distance": "443.9 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "23 sprints",
+      "total_distance": "23913.4 meters",
+      "m/min": "117.69 meters/min",
+      "sprints_per_minute": "1.53 sprints/min",
+      "sprints_per_player": "1.92 sprints/player",
+      "distance_per_minute": "1594.23 meters/min",
+      "avg_sprint_distance": "1039.71 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Takumi Nagaishi",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 42
+      }
+    },
+    "Defender": {
+      "name": "Itsuki Oda",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 0,
+        "Interceptions": 1,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Hiroyuki Mae",
+      "stats": {
+        "Completed Passes": 186,
+        "Carries into Final Third": 6,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Kazuya Konno",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 3,
+        "Carries into Box": 2
+      }
+    }
+  }
+}

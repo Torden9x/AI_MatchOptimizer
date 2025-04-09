@@ -1,0 +1,331 @@
+match_id,home_team,away_team,home_score,away_score
+3925226,Sanfrecce Hiroshima,Urawa Reds,2,0
+3925227,Nagoya Grampus,Kashima Antlers,0,3
+3925228,Avispa Fukuoka,Consadole Sapporo,0,0
+3925229,Cerezo Osaka,Tokyo,2,2
+3925230,Júbilo Iwata,Vissel Kobe,0,2
+3925231,Shonan Bellmare,Kawasaki Frontale,1,2
+3925232,FC Machida Zelvia,Gamba Osaka,1,1
+3925233,Sagan Tosu,Albirex Niigata,1,2
+3925234,Tokyo Verdy,Yokohama F. Marinos,1,2
+3925235,Kashiwa Reysol,Kyoto Sanga FC,1,1
+3925236,Yokohama F. Marinos,Avispa Fukuoka,0,1
+3925237,Kawasaki Frontale,Júbilo Iwata,4,5
+3925238,Kyoto Sanga FC,Shonan Bellmare,1,2
+3925239,Sagan Tosu,Consadole Sapporo,3,0
+3925240,Vissel Kobe,Kashiwa Reysol,0,1
+3925241,Tokyo,Sanfrecce Hiroshima,1,1
+3925242,Gamba Osaka,Albirex Niigata,1,0
+3925243,Kashima Antlers,Cerezo Osaka,1,1
+3925244,Nagoya Grampus,FC Machida Zelvia,0,1
+3925245,Urawa Reds,Tokyo Verdy,1,1
+3925246,Cerezo Osaka,Tokyo Verdy,2,1
+3925247,FC Machida Zelvia,Kashima Antlers,1,0
+3925248,Yokohama F. Marinos,Gamba Osaka,2,0
+3925249,Albirex Niigata,Nagoya Grampus,1,0
+3925250,Júbilo Iwata,Kashiwa Reysol,0,1
+3925251,Sanfrecce Hiroshima,Sagan Tosu,4,0
+3925252,Avispa Fukuoka,Shonan Bellmare,1,1
+3925253,Tokyo,Vissel Kobe,1,2
+3925254,Kawasaki Frontale,Kyoto Sanga FC,0,1
+3925255,Consadole Sapporo,Urawa Reds,0,1
+3925256,Tokyo Verdy,Albirex Niigata,2,2
+3925257,Avispa Fukuoka,Tokyo,1,3
+3925258,Consadole Sapporo,FC Machida Zelvia,1,2
+3925259,Vissel Kobe,Sanfrecce Hiroshima,0,0
+3925260,Kashiwa Reysol,Nagoya Grampus,0,2
+3925261,Gamba Osaka,Júbilo Iwata,2,1
+3925262,Sagan Tosu,Cerezo Osaka,0,2
+3925263,Kashima Antlers,Kawasaki Frontale,2,1
+3925264,Shonan Bellmare,Urawa Reds,4,4
+3925265,Kyoto Sanga FC,Yokohama F. Marinos,2,3
+3925266,Tokyo Verdy,Kyoto Sanga FC,2,2
+3925267,Cerezo Osaka,Shonan Bellmare,2,0
+3925268,Nagoya Grampus,Yokohama F. Marinos,2,1
+3925269,Sanfrecce Hiroshima,Gamba Osaka,1,1
+3925270,Albirex Niigata,Kashiwa Reysol,1,1
+3925271,Kashima Antlers,Júbilo Iwata,1,0
+3925272,Vissel Kobe,Consadole Sapporo,6,0
+3925273,Urawa Reds,Avispa Fukuoka,2,1
+3925274,FC Machida Zelvia,Sagan Tosu,3,1
+3925275,Kawasaki Frontale,Tokyo,3,0
+3925276,FC Machida Zelvia,Sanfrecce Hiroshima,0,2
+3925277,Tokyo,Urawa Reds,2,1
+3925278,Consadole Sapporo,Nagoya Grampus,1,2
+3925279,Sagan Tosu,Vissel Kobe,0,0
+3925280,Avispa Fukuoka,Kashima Antlers,1,0
+3925281,Gamba Osaka,Kyoto Sanga FC,0,0
+3925282,Júbilo Iwata,Albirex Niigata,2,0
+3925283,Yokohama F. Marinos,Kawasaki Frontale,0,0
+3925284,Shonan Bellmare,Tokyo Verdy,1,2
+3925285,Kashiwa Reysol,Cerezo Osaka,1,1
+3925286,Consadole Sapporo,Gamba Osaka,1,0
+3925287,Tokyo,Kashima Antlers,2,0
+3925288,Tokyo Verdy,Kashiwa Reysol,1,1
+3925289,Albirex Niigata,Cerezo Osaka,0,1
+3925290,Kyoto Sanga FC,Júbilo Iwata,0,3
+3925291,Vissel Kobe,Yokohama F. Marinos,1,2
+3925292,Sanfrecce Hiroshima,Shonan Bellmare,2,0
+3925293,Urawa Reds,Sagan Tosu,3,0
+3925294,Kawasaki Frontale,FC Machida Zelvia,0,1
+3925295,Nagoya Grampus,Avispa Fukuoka,0,0
+3925296,Kashiwa Reysol,Urawa Reds,1,0
+3925297,Albirex Niigata,Consadole Sapporo,1,1
+3925298,Júbilo Iwata,Nagoya Grampus,0,1
+3925299,Avispa Fukuoka,Sanfrecce Hiroshima,1,1
+3925300,Tokyo Verdy,Tokyo,2,2
+3925301,FC Machida Zelvia,Vissel Kobe,1,2
+3925302,Yokohama F. Marinos,Shonan Bellmare,2,2
+3925303,Cerezo Osaka,Kawasaki Frontale,1,0
+3925304,Kashima Antlers,Kyoto Sanga FC,1,0
+3925305,Gamba Osaka,Sagan Tosu,2,1
+3925306,Yokohama F. Marinos,Kashiwa Reysol,4,0
+3925307,Consadole Sapporo,Sanfrecce Hiroshima,1,1
+3925308,Kyoto Sanga FC,Albirex Niigata,0,1
+3925309,Sagan Tosu,Kashima Antlers,4,2
+3925310,Shonan Bellmare,Vissel Kobe,0,1
+3925311,Avispa Fukuoka,Júbilo Iwata,2,2
+3925312,Urawa Reds,Gamba Osaka,0,1
+3925313,Kawasaki Frontale,Tokyo Verdy,0,0
+3925314,Nagoya Grampus,Cerezo Osaka,2,1
+3925315,Tokyo,FC Machida Zelvia,1,2
+3925316,Vissel Kobe,Kyoto Sanga FC,0,1
+3925317,Cerezo Osaka,Yokohama F. Marinos,2,2
+3925318,Albirex Niigata,Tokyo,1,3
+3925319,Júbilo Iwata,FC Machida Zelvia,2,0
+3925320,Consadole Sapporo,Shonan Bellmare,3,3
+3925321,Kashiwa Reysol,Sagan Tosu,1,1
+3925322,Gamba Osaka,Kashima Antlers,1,2
+3925323,Sanfrecce Hiroshima,Kawasaki Frontale,2,2
+3925324,Tokyo Verdy,Avispa Fukuoka,0,0
+3925325,Urawa Reds,Nagoya Grampus,2,1
+3925326,Yokohama F. Marinos,Júbilo Iwata,1,1
+3925327,Kashima Antlers,Shonan Bellmare,3,1
+3925328,Tokyo,Kyoto Sanga FC,2,1
+3925329,FC Machida Zelvia,Kashiwa Reysol,2,0
+3925330,Cerezo Osaka,Consadole Sapporo,1,1
+3925331,Sagan Tosu,Tokyo Verdy,0,2
+3925332,Kawasaki Frontale,Urawa Reds,3,1
+3925333,Avispa Fukuoka,Gamba Osaka,1,0
+3925334,Nagoya Grampus,Vissel Kobe,0,2
+3925335,Albirex Niigata,Sanfrecce Hiroshima,1,1
+3925336,Vissel Kobe,Albirex Niigata,2,2
+3925337,Urawa Reds,Yokohama F. Marinos,2,1
+3925338,Shonan Bellmare,Sagan Tosu,2,1
+3925339,Kashiwa Reysol,Kashima Antlers,1,2
+3925340,Sanfrecce Hiroshima,Nagoya Grampus,2,2
+3925341,Avispa Fukuoka,Kawasaki Frontale,1,1
+3925342,Kyoto Sanga FC,FC Machida Zelvia,0,3
+3925343,Consadole Sapporo,Tokyo,1,2
+3925344,Gamba Osaka,Cerezo Osaka,1,0
+3925345,Tokyo Verdy,Júbilo Iwata,3,2
+3925346,Yokohama F. Marinos,Sanfrecce Hiroshima,3,2
+3925347,Shonan Bellmare,FC Machida Zelvia,0,0
+3925348,Albirex Niigata,Urawa Reds,2,4
+3925349,Júbilo Iwata,Sagan Tosu,0,2
+3925350,Kyoto Sanga FC,Avispa Fukuoka,1,3
+3925351,Kawasaki Frontale,Consadole Sapporo,3,0
+3925352,Nagoya Grampus,Gamba Osaka,0,1
+3925353,Cerezo Osaka,Vissel Kobe,1,4
+3925354,Tokyo,Kashiwa Reysol,3,3
+3925355,Kashima Antlers,Tokyo Verdy,3,3
+3925356,Urawa Reds,Kyoto Sanga FC,3,0
+3925357,Sagan Tosu,Kawasaki Frontale,5,2
+3925358,Sanfrecce Hiroshima,Kashima Antlers,1,3
+3925359,Vissel Kobe,Avispa Fukuoka,1,0
+3925360,Nagoya Grampus,Tokyo,3,1
+3925361,Albirex Niigata,Yokohama F. Marinos,3,1
+3925362,FC Machida Zelvia,Cerezo Osaka,2,1
+3925363,Tokyo Verdy,Gamba Osaka,0,0
+3925364,Kashiwa Reysol,Shonan Bellmare,2,1
+3925365,Consadole Sapporo,Júbilo Iwata,1,0
+3925366,Avispa Fukuoka,Cerezo Osaka,0,3
+3925367,Sagan Tosu,Nagoya Grampus,0,2
+3925368,Shonan Bellmare,Albirex Niigata,2,1
+3925369,Kyoto Sanga FC,Sanfrecce Hiroshima,0,5
+3925370,Kashima Antlers,Vissel Kobe,1,0
+3925371,Tokyo,Yokohama F. Marinos,1,1
+3925372,Gamba Osaka,Kawasaki Frontale,3,1
+3925373,Júbilo Iwata,Urawa Reds,1,1
+3925374,FC Machida Zelvia,Tokyo Verdy,4,0
+3925375,Kashiwa Reysol,Consadole Sapporo,2,1
+3925376,Júbilo Iwata,Shonan Bellmare,3,2
+3925377,Albirex Niigata,Avispa Fukuoka,1,2
+3925378,Yokohama F. Marinos,Sagan Tosu,0,1
+3925379,Consadole Sapporo,Kashima Antlers,0,3
+3925380,Kawasaki Frontale,Kashiwa Reysol,1,1
+3925381,Nagoya Grampus,Kyoto Sanga FC,1,1
+3925382,Cerezo Osaka,Sanfrecce Hiroshima,1,1
+3925383,Urawa Reds,FC Machida Zelvia,1,2
+3925384,Vissel Kobe,Tokyo Verdy,0,0
+3925385,Tokyo,Gamba Osaka,0,1
+3925386,Sagan Tosu,Tokyo,0,1
+3925387,Shonan Bellmare,Gamba Osaka,1,2
+3925388,Sanfrecce Hiroshima,Júbilo Iwata,2,0
+3925389,Kashima Antlers,Yokohama F. Marinos,3,2
+3925390,FC Machida Zelvia,Albirex Niigata,1,2
+3925391,Kyoto Sanga FC,Cerezo Osaka,1,1
+3925392,Urawa Reds,Vissel Kobe,1,1
+3925393,Kawasaki Frontale,Nagoya Grampus,2,1
+3925394,Kashiwa Reysol,Avispa Fukuoka,0,1
+3925395,Tokyo Verdy,Consadole Sapporo,4,3
+3925396,Sanfrecce Hiroshima,Tokyo Verdy,4,1
+3925397,Yokohama F. Marinos,FC Machida Zelvia,1,3
+3925398,Cerezo Osaka,Urawa Reds,2,1
+3925399,Kyoto Sanga FC,Consadole Sapporo,2,0
+3925400,Avispa Fukuoka,Sagan Tosu,2,0
+3925401,Nagoya Grampus,Shonan Bellmare,1,1
+3925402,Tokyo,Júbilo Iwata,1,1
+3925403,Kashima Antlers,Albirex Niigata,1,1
+3925404,Gamba Osaka,Kashiwa Reysol,2,1
+3925405,Vissel Kobe,Kawasaki Frontale,1,0
+3925406,Tokyo Verdy,Nagoya Grampus,1,0
+3925407,FC Machida Zelvia,Avispa Fukuoka,0,0
+3925408,Albirex Niigata,Kawasaki Frontale,2,2
+3925409,Júbilo Iwata,Cerezo Osaka,1,1
+3925410,Gamba Osaka,Vissel Kobe,1,1
+3925411,Urawa Reds,Kashima Antlers,2,2
+3925412,Kashiwa Reysol,Sanfrecce Hiroshima,0,1
+3925413,Shonan Bellmare,Tokyo,0,1
+3925414,Sagan Tosu,Kyoto Sanga FC,3,0
+3925415,Consadole Sapporo,Yokohama F. Marinos,0,1
+3925416,Tokyo,Consadole Sapporo,1,0
+3925417,Júbilo Iwata,Tokyo Verdy,2,0
+3925418,Kawasaki Frontale,Shonan Bellmare,1,1
+3925419,Kashima Antlers,Gamba Osaka,0,0
+3925420,Avispa Fukuoka,Yokohama F. Marinos,2,1
+3925421,Sanfrecce Hiroshima,Albirex Niigata,1,1
+3925422,Vissel Kobe,FC Machida Zelvia,0,0
+3925423,Cerezo Osaka,Sagan Tosu,0,0
+3925424,Kyoto Sanga FC,Kashiwa Reysol,2,2
+3925425,Nagoya Grampus,Urawa Reds,0,1
+3925426,Kawasaki Frontale,Sanfrecce Hiroshima,1,1
+3925427,Consadole Sapporo,Albirex Niigata,0,1
+3925428,Yokohama F. Marinos,Tokyo Verdy,1,1
+3925429,Tokyo,Avispa Fukuoka,0,1
+3925430,Gamba Osaka,FC Machida Zelvia,1,3
+3925431,Cerezo Osaka,Nagoya Grampus,2,1
+3925432,Urawa Reds,Júbilo Iwata,3,0
+3925433,Shonan Bellmare,Kyoto Sanga FC,0,1
+3925434,Vissel Kobe,Kashima Antlers,3,1
+3925435,Sagan Tosu,Kashiwa Reysol,1,4
+3925436,Sanfrecce Hiroshima,Vissel Kobe,1,3
+3925437,Gamba Osaka,Yokohama F. Marinos,4,0
+3925438,Kashima Antlers,Consadole Sapporo,2,0
+3925439,Júbilo Iwata,Kawasaki Frontale,2,2
+3925440,Albirex Niigata,Sagan Tosu,3,4
+3925441,Urawa Reds,Shonan Bellmare,2,3
+3925442,FC Machida Zelvia,Nagoya Grampus,1,0
+3925443,Tokyo Verdy,Cerezo Osaka,1,1
+3925444,Kashiwa Reysol,Tokyo,3,2
+3925445,Avispa Fukuoka,Kyoto Sanga FC,1,2
+3925446,Tokyo,Albirex Niigata,2,0
+3925447,Consadole Sapporo,Vissel Kobe,1,1
+3925448,Tokyo Verdy,FC Machida Zelvia,0,0
+3925449,Nagoya Grampus,Kashiwa Reysol,2,1
+3925450,Kyoto Sanga FC,Urawa Reds,0,0
+3925451,Sanfrecce Hiroshima,Avispa Fukuoka,1,0
+3925452,Shonan Bellmare,Júbilo Iwata,5,0
+3925453,Kawasaki Frontale,Cerezo Osaka,1,1
+3925454,Sagan Tosu,Gamba Osaka,0,2
+3925455,Yokohama F. Marinos,Kashima Antlers,4,1
+3925456,Urawa Reds,Consadole Sapporo,3,4
+3925457,Kashima Antlers,Tokyo,2,1
+3925458,FC Machida Zelvia,Yokohama F. Marinos,1,2
+3925459,Kashiwa Reysol,Kawasaki Frontale,2,3
+3925460,Júbilo Iwata,Kyoto Sanga FC,1,1
+3925461,Gamba Osaka,Shonan Bellmare,0,1
+3925462,Cerezo Osaka,Albirex Niigata,1,2
+3925463,Vissel Kobe,Nagoya Grampus,3,3
+3925464,Avispa Fukuoka,Tokyo Verdy,0,1
+3925465,Sagan Tosu,Sanfrecce Hiroshima,1,4
+3925466,Yokohama F. Marinos,Consadole Sapporo,3,2
+3925467,Urawa Reds,Kashiwa Reysol,1,0
+3925468,Cerezo Osaka,FC Machida Zelvia,0,0
+3925469,Gamba Osaka,Tokyo,0,0
+3925470,Kyoto Sanga FC,Nagoya Grampus,3,2
+3925471,Albirex Niigata,Júbilo Iwata,2,2
+3925472,Shonan Bellmare,Avispa Fukuoka,1,1
+3925473,Kawasaki Frontale,Vissel Kobe,3,0
+3925474,Tokyo Verdy,Sanfrecce Hiroshima,0,1
+3925475,Kashima Antlers,Sagan Tosu,3,0
+3925476,Consadole Sapporo,Avispa Fukuoka,2,2
+3925477,FC Machida Zelvia,Shonan Bellmare,0,1
+3925478,Kashiwa Reysol,Gamba Osaka,0,0
+3925479,Sanfrecce Hiroshima,Cerezo Osaka,2,0
+3925480,Yokohama F. Marinos,Vissel Kobe,1,2
+3925481,Sagan Tosu,Urawa Reds,1,1
+3925482,Nagoya Grampus,Tokyo Verdy,1,0
+3925483,Júbilo Iwata,Kashima Antlers,2,1
+3925484,Tokyo,Kawasaki Frontale,0,3
+3925485,Albirex Niigata,Kyoto Sanga FC,2,0
+3925486,Consadole Sapporo,Sagan Tosu,4,3
+3925487,Shonan Bellmare,Kashiwa Reysol,1,2
+3925488,Kashima Antlers,Urawa Reds,0,0
+3925489,FC Machida Zelvia,Júbilo Iwata,4,0
+3925490,Tokyo,Tokyo Verdy,0,0
+3925491,Kawasaki Frontale,Yokohama F. Marinos,1,3
+3925492,Nagoya Grampus,Sanfrecce Hiroshima,1,2
+3925493,Cerezo Osaka,Kyoto Sanga FC,3,5
+3925494,Vissel Kobe,Gamba Osaka,2,2
+3925495,Avispa Fukuoka,Albirex Niigata,0,1
+3925496,Urawa Reds,Kawasaki Frontale,1,1
+3925497,Yokohama F. Marinos,Cerezo Osaka,4,0
+3925498,Shonan Bellmare,Nagoya Grampus,0,1
+3925499,Kyoto Sanga FC,Tokyo,3,0
+3925500,Gamba Osaka,Avispa Fukuoka,2,2
+3925501,Sanfrecce Hiroshima,Kashiwa Reysol,1,0
+3925502,Albirex Niigata,FC Machida Zelvia,0,0
+3925503,Júbilo Iwata,Consadole Sapporo,0,2
+3925504,Vissel Kobe,Sagan Tosu,2,0
+3925505,Tokyo Verdy,Kashima Antlers,2,1
+3925506,Sanfrecce Hiroshima,Tokyo,3,1
+3925507,Kashiwa Reysol,Tokyo Verdy,2,3
+3925508,FC Machida Zelvia,Urawa Reds,2,2
+3925509,Sagan Tosu,Shonan Bellmare,1,2
+3925510,Cerezo Osaka,Gamba Osaka,1,0
+3925511,Kyoto Sanga FC,Kashima Antlers,0,0
+3925512,Nagoya Grampus,Albirex Niigata,3,0
+3925513,Júbilo Iwata,Yokohama F. Marinos,3,4
+3925514,Avispa Fukuoka,Vissel Kobe,0,2
+3925515,Consadole Sapporo,Kawasaki Frontale,2,0
+3925516,Consadole Sapporo,Tokyo Verdy,0,2
+3925517,Avispa Fukuoka,FC Machida Zelvia,0,2
+3925518,Vissel Kobe,Cerezo Osaka,2,1
+3925519,Gamba Osaka,Urawa Reds,0,1
+3925520,Albirex Niigata,Shonan Bellmare,3,1
+3925521,Yokohama F. Marinos,Kyoto Sanga FC,0,2
+3925522,Kawasaki Frontale,Sagan Tosu,3,2
+3925523,Tokyo,Nagoya Grampus,4,1
+3925524,Kashiwa Reysol,Júbilo Iwata,0,2
+3925525,Kashima Antlers,Sanfrecce Hiroshima,2,2
+3925526,Urawa Reds,Tokyo,0,1
+3925527,Tokyo Verdy,Sagan Tosu,2,0
+3925528,FC Machida Zelvia,Consadole Sapporo,0,0
+3925529,Shonan Bellmare,Cerezo Osaka,1,2
+3925530,Albirex Niigata,Vissel Kobe,2,3
+3925531,Júbilo Iwata,Avispa Fukuoka,0,0
+3925532,Nagoya Grampus,Kawasaki Frontale,2,0
+3925533,Kyoto Sanga FC,Gamba Osaka,2,2
+3925534,Sanfrecce Hiroshima,Yokohama F. Marinos,6,2
+3925535,Kashima Antlers,Kashiwa Reysol,0,0
+3925536,Yokohama F. Marinos,Tokyo,1,3
+3925537,Consadole Sapporo,Kyoto Sanga FC,2,0
+3925538,Kawasaki Frontale,Albirex Niigata,5,1
+3925539,Shonan Bellmare,Kashima Antlers,3,2
+3925540,Nagoya Grampus,Júbilo Iwata,2,0
+3925541,Gamba Osaka,Tokyo Verdy,1,1
+3925542,Cerezo Osaka,Kashiwa Reysol,0,0
+3925543,Vissel Kobe,Urawa Reds,1,0
+3925544,Sanfrecce Hiroshima,FC Machida Zelvia,2,0
+3925545,Sagan Tosu,Avispa Fukuoka,0,0
+3925546,Avispa Fukuoka,Nagoya Grampus,1,0
+3925547,Kashiwa Reysol,Yokohama F. Marinos,1,0
+3925548,Tokyo,Sagan Tosu,1,1
+3925549,Tokyo Verdy,Shonan Bellmare,0,2
+3925550,FC Machida Zelvia,Kawasaki Frontale,1,4
+3925551,Albirex Niigata,Kashima Antlers,0,3
+3925552,Júbilo Iwata,Sanfrecce Hiroshima,1,2
+3925553,Kyoto Sanga FC,Vissel Kobe,2,3
+3925554,Gamba Osaka,Consadole Sapporo,2,1
+3925555,Urawa Reds,Cerezo Osaka,0,1

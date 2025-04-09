@@ -1,0 +1,315 @@
+{
+  "match_id": "3925233",
+  "team": "Albirex Niigata",
+  "formation": "4231",
+  "key_tactical_patterns": [
+    "Created 3.0 xG",
+    "Tactical shape: 4231 with 990 actions in the middle third",
+    "Penalty box threat: 36 entries and 39 carries into area",
+    "Vertical progression: 137 carries into final third and 166 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 55 zone actions, including 2 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 49,
+        "Midfield third - Right - Backwards - Short - Ground Pass": 49,
+        "Midfield third - Center - To left - Short - Ground Pass": 48
+      },
+      "pass_types": {
+        "Recovery": 29,
+        "Throw-in": 23,
+        "Corner": 6,
+        "Free Kick": 11,
+        "Goal Kick": 6,
+        "Long": 53,
+        "Short": 622,
+        "Defensive": 166,
+        "Center": 205,
+        "Attacking": 129
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 717,
+        "accurate_passes": 630,
+        "inaccurate_passes": 87,
+        "progressive_passes": 166,
+        "progressive_accurate": 106,
+        "progressive_inaccurate": 60
+      },
+      "progressive_pass_possession_percentage": 53.64,
+      "progressive_passes_total": 166,
+      "progressive_passes_accurate": 106,
+      "progressive_passes_inaccurate": 60
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 338,
+        "Final Third - Left": 144,
+        "Final Third - Center": 106
+      },
+      "box_entries": 36,
+      "goal_assists": 2,
+      "shot_assists": 11
+    },
+    "defense": {
+      "offensive_blocks": 1,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 3,
+      "duel_types": {
+        "Aerial Lost": 19,
+        "Tackle": 8
+      },
+      "interception_outcomes": {
+        "Lost In Play": 4,
+        "Won": 4,
+        "Lost Out": 1,
+        "Success In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Success To Team": 1,
+        "Lost": 1
+      },
+      "fouls_won_defensively": 2
+    },
+    "movement": {
+      "first_half_sprints": 36,
+      "second_half_sprints": 41,
+      "sprint_intensity_drop_pct": -13.89,
+      "high_accelerations": 246,
+      "total_running_distance": 115819.55,
+      "under_pressure_actions": 387,
+      "counterpress_actions": 39,
+      "avg_intensity_m_per_min": 104.39,
+      "summary_text": {
+        "first_half_sprints": "36 sprints",
+        "second_half_sprints": "41 sprints",
+        "sprint_intensity_drop": "-13.9%",
+        "total_distance": "115819.55 meters",
+        "avg_intensity": "104.39 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 6,
+      "free_kick_passes": 11,
+      "throw_in_passes": 23,
+      "through_balls": 0,
+      "dummy_passes": 1,
+      "cutback_passes": 1,
+      "crosses": 12,
+      "pass_techniques": {
+        "Outswinging": 3,
+        "Inswinging": 2,
+        "Straight": 1
+      },
+      "inswingers": 2,
+      "crosses_total": 12,
+      "cutbacks": 1,
+      "straight_passes": 1,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 1
+    },
+    "carries": {
+      "total_carry_distance": 2813.84,
+      "into_final_third": 137,
+      "into_penalty_box": 39,
+      "into_zone_14": 8,
+      "leads_to_shot": 1,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 1
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 1
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 1,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 3.0,
+      "xGOT_total": 3.51,
+      "shot_types": {
+        "Open Play": 19,
+        "Penalty": 1
+      },
+      "shot_outcomes": {
+        "Saved": 6,
+        "Off T": 6,
+        "Blocked": 5,
+        "Goal": 2,
+        "Wayward": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Albirex Niigata displayed a 4231 formation. Tactical highlights include: Created 3.0 xG, Tactical shape: 4231 with 990 actions in the middle third, Penalty box threat: 36 entries and 39 carries into area, Vertical progression: 137 carries into final third and 166 progressive passes, High counterpressing volume, Zone 14 dominance: 55 zone actions, including 2 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Ryosuke Kojima",
+      "position": "GK"
+    },
+    {
+      "jersey": 2,
+      "name": "Naoto Arai",
+      "position": "LB"
+    },
+    {
+      "jersey": 3,
+      "name": "Thomas Deng",
+      "position": "LCB"
+    },
+    {
+      "jersey": 5,
+      "name": "Michael James Fitzgerald",
+      "position": "RCB"
+    },
+    {
+      "jersey": 6,
+      "name": "Hiroki Akiyama",
+      "position": "LDM"
+    },
+    {
+      "jersey": 7,
+      "name": "Kaito Taniguchi",
+      "position": "CAM"
+    },
+    {
+      "jersey": 8,
+      "name": "Eiji Miyamoto",
+      "position": "RDM"
+    },
+    {
+      "jersey": 9,
+      "name": "Koji Suzuki",
+      "position": "ST"
+    },
+    {
+      "jersey": 16,
+      "name": "Yota Komi",
+      "position": "LW"
+    },
+    {
+      "jersey": 22,
+      "name": "Eitaro Matsuda",
+      "position": "RW"
+    },
+    {
+      "jersey": 25,
+      "name": "Soya Fujiwara",
+      "position": "RB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "23 sprints",
+      "total_distance": "16335.63 meters",
+      "m/min": "108.9 meters/min",
+      "sprints_per_minute": "1.53 sprints/min",
+      "sprints_per_player": "2.3 sprints/player",
+      "distance_per_minute": "1089.04 meters/min",
+      "avg_sprint_distance": "710.24 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "13 sprints",
+      "total_distance": "10938.37 meters",
+      "m/min": "121.54 meters/min",
+      "sprints_per_minute": "0.87 sprints/min",
+      "sprints_per_player": "2.17 sprints/player",
+      "distance_per_minute": "729.22 meters/min",
+      "avg_sprint_distance": "841.41 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "18 sprints",
+      "total_distance": "20265.27 meters",
+      "m/min": "113.74 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "1.8 sprints/player",
+      "distance_per_minute": "1351.02 meters/min",
+      "avg_sprint_distance": "1125.85 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "18 sprints",
+      "total_distance": "9547.54 meters",
+      "m/min": "90.93 meters/min",
+      "sprints_per_minute": "1.2 sprints/min",
+      "sprints_per_player": "2.57 sprints/player",
+      "distance_per_minute": "636.5 meters/min",
+      "avg_sprint_distance": "530.42 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "23 sprints",
+      "total_distance": "15033.92 meters",
+      "m/min": "111.71 meters/min",
+      "sprints_per_minute": "1.53 sprints/min",
+      "sprints_per_player": "1.92 sprints/player",
+      "distance_per_minute": "1002.26 meters/min",
+      "avg_sprint_distance": "653.65 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "34 sprints",
+      "total_distance": "24812.29 meters",
+      "m/min": "104.89 meters/min",
+      "sprints_per_minute": "2.27 sprints/min",
+      "sprints_per_player": "3.09 sprints/player",
+      "distance_per_minute": "1654.15 meters/min",
+      "avg_sprint_distance": "729.77 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Ryosuke Kojima",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 134
+      }
+    },
+    "Defender": {
+      "name": "Michael James Fitzgerald",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": true,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Eiji Miyamoto",
+      "stats": {
+        "Completed Passes": 214,
+        "Carries into Final Third": 9,
+        "Interceptions": 1,
+        "Duels Won": 1
+      }
+    },
+    "Forward": {
+      "name": "Eitaro Matsuda",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 2,
+        "Carries into Box": 8
+      }
+    }
+  }
+}

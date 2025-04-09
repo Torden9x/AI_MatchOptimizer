@@ -1,0 +1,311 @@
+{
+  "match_id": "3925227",
+  "team": "Nagoya Grampus",
+  "formation": "352",
+  "key_tactical_patterns": [
+    "Tactical shape: 352 with 705 actions in the middle third",
+    "Penalty box threat: 21 entries and 30 carries into area",
+    "Vertical progression: 118 carries into final third and 185 progressive passes",
+    "High counterpressing volume",
+    "Cross-heavy attacking pattern",
+    "Zone 14 dominance: 59 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To left - Short - Ground Pass": 57,
+        "Midfield third - Center - To right - Short - Ground Pass": 42,
+        "Midfield third - Left - Forwards - Short - Ground Pass": 33
+      },
+      "pass_types": {
+        "Recovery": 47,
+        "Throw-in": 22,
+        "Corner": 4,
+        "Free Kick": 11,
+        "Goal Kick": 7,
+        "Long": 48,
+        "Short": 489,
+        "Defensive": 129,
+        "Center": 196,
+        "Attacking": 136
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 578,
+        "accurate_passes": 468,
+        "inaccurate_passes": 110,
+        "progressive_passes": 185,
+        "progressive_accurate": 116,
+        "progressive_inaccurate": 69
+      },
+      "progressive_pass_possession_percentage": 51.33,
+      "progressive_passes_total": 185,
+      "progressive_passes_accurate": 116,
+      "progressive_passes_inaccurate": 69
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 268,
+        "Final Third - Left": 191,
+        "Final Third - Center": 120
+      },
+      "box_entries": 21,
+      "goal_assists": 0,
+      "shot_assists": 6
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 17,
+      "duel_types": {
+        "Aerial Lost": 19,
+        "Tackle": 16
+      },
+      "interception_outcomes": {
+        "Lost In Play": 3,
+        "Lost Out": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Success To Team": 2,
+        "Lost": 2,
+        "Won": 1,
+        "Success To Opposition": 1
+      },
+      "fouls_won_defensively": 3
+    },
+    "movement": {
+      "first_half_sprints": 39,
+      "second_half_sprints": 57,
+      "sprint_intensity_drop_pct": -46.15,
+      "high_accelerations": 254,
+      "total_running_distance": 110175.27,
+      "under_pressure_actions": 413,
+      "counterpress_actions": 44,
+      "avg_intensity_m_per_min": 104.31,
+      "summary_text": {
+        "first_half_sprints": "39 sprints",
+        "second_half_sprints": "57 sprints",
+        "sprint_intensity_drop": "-46.1%",
+        "total_distance": "110175.27 meters",
+        "avg_intensity": "104.31 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 4,
+      "free_kick_passes": 11,
+      "throw_in_passes": 22,
+      "through_balls": 0,
+      "dummy_passes": 1,
+      "cutback_passes": 1,
+      "crosses": 15,
+      "pass_techniques": {
+        "Inswinging": 3,
+        "Outswinging": 1
+      },
+      "inswingers": 3,
+      "crosses_total": 15,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 2187.72,
+      "into_final_third": 118,
+      "into_penalty_box": 30,
+      "into_zone_14": 9,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 6
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 1,
+      "offensive_fouls": 1,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.39,
+      "xGOT_total": 0.0,
+      "shot_types": {
+        "Open Play": 7
+      },
+      "shot_outcomes": {
+        "Off T": 4,
+        "Blocked": 2,
+        "Wayward": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Nagoya Grampus displayed a 352 formation. Tactical highlights include: Tactical shape: 352 with 705 actions in the middle third, Penalty box threat: 21 entries and 30 carries into area, Vertical progression: 118 carries into final third and 185 progressive passes, High counterpressing volume, Cross-heavy attacking pattern, Zone 14 dominance: 59 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Mitchell James Langerak",
+      "position": "GK"
+    },
+    {
+      "jersey": 2,
+      "name": "Yuki Nogami",
+      "position": "RCB"
+    },
+    {
+      "jersey": 4,
+      "name": "Shion Inoue",
+      "position": "LCB"
+    },
+    {
+      "jersey": 7,
+      "name": "Ryuji Izumi",
+      "position": "LCM"
+    },
+    {
+      "jersey": 10,
+      "name": "Anderson Patric Aguiar Oliveira",
+      "position": "RCF"
+    },
+    {
+      "jersey": 14,
+      "name": "Tsukasa Morishima",
+      "position": "RCM"
+    },
+    {
+      "jersey": 15,
+      "name": "Sho Inagaki",
+      "position": "CDM"
+    },
+    {
+      "jersey": 20,
+      "name": "Kennedy Egbus Mikuni",
+      "position": "CB"
+    },
+    {
+      "jersey": 25,
+      "name": "Tojiro Kubo",
+      "position": "RWB"
+    },
+    {
+      "jersey": 66,
+      "name": "Ryosuke Yamanaka",
+      "position": "LWB"
+    },
+    {
+      "jersey": 77,
+      "name": "Kasper Junker",
+      "position": "LCF"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "22 sprints",
+      "total_distance": "16277.31 meters",
+      "m/min": "120.57 meters/min",
+      "sprints_per_minute": "1.47 sprints/min",
+      "sprints_per_player": "2.44 sprints/player",
+      "distance_per_minute": "1085.15 meters/min",
+      "avg_sprint_distance": "739.88 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "17 sprints",
+      "total_distance": "12533.08 meters",
+      "m/min": "92.84 meters/min",
+      "sprints_per_minute": "1.13 sprints/min",
+      "sprints_per_player": "1.89 sprints/player",
+      "distance_per_minute": "835.54 meters/min",
+      "avg_sprint_distance": "737.24 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "25 sprints",
+      "total_distance": "17219.81 meters",
+      "m/min": "118.35 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.78 sprints/player",
+      "distance_per_minute": "1147.99 meters/min",
+      "avg_sprint_distance": "688.79 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "32 sprints",
+      "total_distance": "13657.83 meters",
+      "m/min": "112.93 meters/min",
+      "sprints_per_minute": "2.13 sprints/min",
+      "sprints_per_player": "3.56 sprints/player",
+      "distance_per_minute": "910.52 meters/min",
+      "avg_sprint_distance": "426.81 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "25 sprints",
+      "total_distance": "12620.55 meters",
+      "m/min": "104.61 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.78 sprints/player",
+      "distance_per_minute": "841.37 meters/min",
+      "avg_sprint_distance": "504.82 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "31 sprints",
+      "total_distance": "20075.24 meters",
+      "m/min": "106.36 meters/min",
+      "sprints_per_minute": "2.07 sprints/min",
+      "sprints_per_player": "3.1 sprints/player",
+      "distance_per_minute": "1338.35 meters/min",
+      "avg_sprint_distance": "647.59 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Mitchell James Langerak",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 85
+      }
+    },
+    "Defender": {
+      "name": "Kennedy Egbus Mikuni",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 4,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Ryuji Izumi",
+      "stats": {
+        "Completed Passes": 108,
+        "Carries into Final Third": 16,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Anderson Patric Aguiar Oliveira",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 1
+      }
+    }
+  }
+}

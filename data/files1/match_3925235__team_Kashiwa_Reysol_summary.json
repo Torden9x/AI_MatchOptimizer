@@ -1,0 +1,313 @@
+{
+  "match_id": "3925235",
+  "team": "Kashiwa Reysol",
+  "formation": "442",
+  "key_tactical_patterns": [
+    "Tactical shape: 442 with 1099 actions in the middle third",
+    "Penalty box threat: 14 entries and 24 carries into area",
+    "Vertical progression: 75 carries into final third and 166 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 43 zone actions, including 1 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Defensive third - Center - Forwards - Long - High Pass": 26,
+        "Midfield third - Center - To right - Short - Ground Pass": 14,
+        "Midfield third - Center - Forwards - Short - Ground Pass": 14
+      },
+      "pass_types": {
+        "Recovery": 59,
+        "Throw-in": 31,
+        "Corner": 5,
+        "Free Kick": 17,
+        "Goal Kick": 9,
+        "Long": 63,
+        "Short": 229,
+        "Defensive": 90,
+        "Center": 93,
+        "Attacking": 62
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 347,
+        "accurate_passes": 217,
+        "inaccurate_passes": 130,
+        "progressive_passes": 166,
+        "progressive_accurate": 71,
+        "progressive_inaccurate": 95
+      },
+      "progressive_pass_possession_percentage": 60.34,
+      "progressive_passes_total": 166,
+      "progressive_passes_accurate": 71,
+      "progressive_passes_inaccurate": 95
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 243,
+        "Final Third - Left": 86,
+        "Final Third - Center": 75
+      },
+      "box_entries": 14,
+      "goal_assists": 1,
+      "shot_assists": 4
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 25,
+      "duel_types": {
+        "Aerial Lost": 21,
+        "Tackle": 18
+      },
+      "interception_outcomes": {
+        "Won": 3,
+        "Lost Out": 2,
+        "Lost In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Success To Team": 2,
+        "Lost": 2
+      },
+      "fouls_won_defensively": 8
+    },
+    "movement": {
+      "first_half_sprints": 50,
+      "second_half_sprints": 59,
+      "sprint_intensity_drop_pct": -18.0,
+      "high_accelerations": 247,
+      "total_running_distance": 87278.01,
+      "under_pressure_actions": 301,
+      "counterpress_actions": 60,
+      "avg_intensity_m_per_min": 89.16,
+      "summary_text": {
+        "first_half_sprints": "50 sprints",
+        "second_half_sprints": "59 sprints",
+        "sprint_intensity_drop": "-18.0%",
+        "total_distance": "87278.01 meters",
+        "avg_intensity": "89.16 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 5,
+      "free_kick_passes": 17,
+      "throw_in_passes": 31,
+      "through_balls": 1,
+      "dummy_passes": 0,
+      "cutback_passes": 1,
+      "crosses": 7,
+      "pass_techniques": {
+        "Inswinging": 4,
+        "Through Ball": 1,
+        "Outswinging": 1
+      },
+      "inswingers": 4,
+      "crosses_total": 7,
+      "cutbacks": 1,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1122.98,
+      "into_final_third": 75,
+      "into_penalty_box": 24,
+      "into_zone_14": 8,
+      "leads_to_shot": 1,
+      "leads_to_goal": 1,
+      "dispossessed_at_end": 7
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 1
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 1,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 1,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.47,
+      "xGOT_total": 0.59,
+      "shot_types": {
+        "Open Play": 10,
+        "Penalty": 1
+      },
+      "shot_outcomes": {
+        "Blocked": 4,
+        "Off T": 3,
+        "Saved": 2,
+        "Wayward": 1,
+        "Goal": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Kashiwa Reysol displayed a 442 formation. Tactical highlights include: Tactical shape: 442 with 1099 actions in the middle third, Penalty box threat: 14 entries and 24 carries into area, Vertical progression: 75 carries into final third and 166 progressive passes, High counterpressing volume, Zone 14 dominance: 43 zone actions, including 1 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 3,
+      "name": "Diego Jara Rodrigues",
+      "position": "LB"
+    },
+    {
+      "jersey": 4,
+      "name": "Taiyo Koga",
+      "position": "LCB"
+    },
+    {
+      "jersey": 5,
+      "name": "Tomoki Takamine",
+      "position": "LDM"
+    },
+    {
+      "jersey": 6,
+      "name": "Yuto Yamada",
+      "position": "RM"
+    },
+    {
+      "jersey": 10,
+      "name": "Matheus Gonçalves Sávio",
+      "position": "LM"
+    },
+    {
+      "jersey": 13,
+      "name": "Tomoya Inukai",
+      "position": "RCB"
+    },
+    {
+      "jersey": 14,
+      "name": "Tomoya Koyamatsu",
+      "position": "LCF"
+    },
+    {
+      "jersey": 19,
+      "name": "Mao Hosoya",
+      "position": "RCF"
+    },
+    {
+      "jersey": 32,
+      "name": "Hiroki Sekine",
+      "position": "RB"
+    },
+    {
+      "jersey": 33,
+      "name": "Eiji Shirai",
+      "position": "RDM"
+    },
+    {
+      "jersey": 46,
+      "name": "Kenta Matsumoto",
+      "position": "GK"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "22 sprints",
+      "total_distance": "10136.78 meters",
+      "m/min": "96.54 meters/min",
+      "sprints_per_minute": "1.47 sprints/min",
+      "sprints_per_player": "3.14 sprints/player",
+      "distance_per_minute": "675.79 meters/min",
+      "avg_sprint_distance": "460.76 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "28 sprints",
+      "total_distance": "14560.58 meters",
+      "m/min": "97.07 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "2.8 sprints/player",
+      "distance_per_minute": "970.71 meters/min",
+      "avg_sprint_distance": "520.02 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "19 sprints",
+      "total_distance": "12194.58 meters",
+      "m/min": "81.95 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.11 sprints/player",
+      "distance_per_minute": "812.97 meters/min",
+      "avg_sprint_distance": "641.82 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "35 sprints",
+      "total_distance": "13801.78 meters",
+      "m/min": "102.24 meters/min",
+      "sprints_per_minute": "2.33 sprints/min",
+      "sprints_per_player": "3.89 sprints/player",
+      "distance_per_minute": "920.12 meters/min",
+      "avg_sprint_distance": "394.34 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "24 sprints",
+      "total_distance": "10611.81 meters",
+      "m/min": "84.41 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.4 sprints/player",
+      "distance_per_minute": "707.45 meters/min",
+      "avg_sprint_distance": "442.16 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "25 sprints",
+      "total_distance": "15591.38 meters",
+      "m/min": "81.64 meters/min",
+      "sprints_per_minute": "1.67 sprints/min",
+      "sprints_per_player": "2.78 sprints/player",
+      "distance_per_minute": "1039.43 meters/min",
+      "avg_sprint_distance": "623.66 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Kenta Matsumoto",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 71
+      }
+    },
+    "Defender": {
+      "name": "Diego Jara Rodrigues",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": true,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Eiji Shirai",
+      "stats": {
+        "Completed Passes": 82,
+        "Carries into Final Third": 4,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Mao Hosoya",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 1,
+        "Carries into Box": 8
+      }
+    }
+  }
+}

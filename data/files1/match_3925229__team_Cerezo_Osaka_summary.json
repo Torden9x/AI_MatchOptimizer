@@ -1,0 +1,315 @@
+{
+  "match_id": "3925229",
+  "team": "Cerezo Osaka",
+  "formation": "433",
+  "key_tactical_patterns": [
+    "Created 1.72 xG",
+    "Tactical shape: 433 with 1060 actions in the middle third",
+    "Penalty box threat: 11 entries and 51 carries into area",
+    "Vertical progression: 144 carries into final third and 187 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 43 zone actions, including 1 key passes and 0 assists",
+    "Final third territorial dominance: 661 actions in this area"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Attacking third - Left - Backwards - Short - Ground Pass": 28,
+        "Midfield third - Center - To right - Short - Ground Pass": 25,
+        "Midfield third - Left - Forwards - Short - Ground Pass": 24
+      },
+      "pass_types": {
+        "Recovery": 53,
+        "Throw-in": 29,
+        "Corner": 7,
+        "Free Kick": 31,
+        "Goal Kick": 5,
+        "Long": 58,
+        "Short": 369,
+        "Defensive": 114,
+        "Center": 123,
+        "Attacking": 132
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 497,
+        "accurate_passes": 370,
+        "inaccurate_passes": 127,
+        "progressive_passes": 187,
+        "progressive_accurate": 100,
+        "progressive_inaccurate": 87
+      },
+      "progressive_pass_possession_percentage": 65.36,
+      "progressive_passes_total": 187,
+      "progressive_passes_accurate": 100,
+      "progressive_passes_inaccurate": 87
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 282,
+        "Final Third - Left": 257,
+        "Final Third - Center": 122
+      },
+      "box_entries": 11,
+      "goal_assists": 1,
+      "shot_assists": 9
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 14,
+      "duel_types": {
+        "Tackle": 26,
+        "Aerial Lost": 18
+      },
+      "interception_outcomes": {
+        "Won": 2,
+        "Lost In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 2,
+        "Success To Opposition": 2,
+        "Success To Team": 1
+      },
+      "fouls_won_defensively": 12
+    },
+    "movement": {
+      "first_half_sprints": 38,
+      "second_half_sprints": 44,
+      "sprint_intensity_drop_pct": -15.79,
+      "high_accelerations": 269,
+      "total_running_distance": 108372.86,
+      "under_pressure_actions": 488,
+      "counterpress_actions": 61,
+      "avg_intensity_m_per_min": 109.09,
+      "summary_text": {
+        "first_half_sprints": "38 sprints",
+        "second_half_sprints": "44 sprints",
+        "sprint_intensity_drop": "-15.8%",
+        "total_distance": "108372.86 meters",
+        "avg_intensity": "109.09 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 7,
+      "free_kick_passes": 31,
+      "throw_in_passes": 29,
+      "through_balls": 1,
+      "dummy_passes": 0,
+      "cutback_passes": 5,
+      "crosses": 12,
+      "pass_techniques": {
+        "Outswinging": 4,
+        "Inswinging": 2,
+        "Through Ball": 1
+      },
+      "inswingers": 2,
+      "crosses_total": 12,
+      "cutbacks": 5,
+      "straight_passes": 0,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 1
+    },
+    "carries": {
+      "total_carry_distance": 2046.77,
+      "into_final_third": 144,
+      "into_penalty_box": 51,
+      "into_zone_14": 5,
+      "leads_to_shot": 2,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 2
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 0,
+      "fouls_won_advantage_played": 3,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 1.72,
+      "xGOT_total": 1.63,
+      "shot_types": {
+        "Open Play": 15,
+        "Free Kick": 1
+      },
+      "shot_outcomes": {
+        "Blocked": 6,
+        "Off T": 4,
+        "Saved": 3,
+        "Goal": 2,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Cerezo Osaka displayed a 433 formation. Tactical highlights include: Created 1.72 xG, Tactical shape: 433 with 1060 actions in the middle third, Penalty box threat: 11 entries and 51 carries into area, Vertical progression: 144 carries into final third and 187 progressive passes, High counterpressing volume, Zone 14 dominance: 43 zone actions, including 1 key passes and 0 assists, Final third territorial dominance: 661 actions in this area.",
+  "lineup": [
+    {
+      "jersey": 2,
+      "name": "Seiya Maikuma",
+      "position": "RB"
+    },
+    {
+      "jersey": 6,
+      "name": "Kyohei Noborizato",
+      "position": "LB"
+    },
+    {
+      "jersey": 8,
+      "name": "Shinji Kagawa",
+      "position": "LCM"
+    },
+    {
+      "jersey": 9,
+      "name": "Leonardo de Sousa Pereira",
+      "position": "ST"
+    },
+    {
+      "jersey": 10,
+      "name": "Shunta Tanaka",
+      "position": "CDM"
+    },
+    {
+      "jersey": 14,
+      "name": "Kakeru Funaki",
+      "position": "LCB"
+    },
+    {
+      "jersey": 21,
+      "name": "Jin-Hyeon Kim",
+      "position": "GK"
+    },
+    {
+      "jersey": 24,
+      "name": "Koji Toriumi",
+      "position": "RCB"
+    },
+    {
+      "jersey": 25,
+      "name": "Hiroaki Okuno",
+      "position": "RCM"
+    },
+    {
+      "jersey": 27,
+      "name": "João Victor da Vitória Fernandes",
+      "position": "LW"
+    },
+    {
+      "jersey": 77,
+      "name": "Lucas Fernandes",
+      "position": "RW"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "19 sprints",
+      "total_distance": "15434.86 meters",
+      "m/min": "128.62 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.38 sprints/player",
+      "distance_per_minute": "1028.99 meters/min",
+      "avg_sprint_distance": "812.36 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "19 sprints",
+      "total_distance": "14777.78 meters",
+      "m/min": "109.47 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "2.11 sprints/player",
+      "distance_per_minute": "985.19 meters/min",
+      "avg_sprint_distance": "777.78 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "30 sprints",
+      "total_distance": "18029.21 meters",
+      "m/min": "116.92 meters/min",
+      "sprints_per_minute": "2.0 sprints/min",
+      "sprints_per_player": "3.33 sprints/player",
+      "distance_per_minute": "1201.95 meters/min",
+      "avg_sprint_distance": "600.97 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "20 sprints",
+      "total_distance": "15048.83 meters",
+      "m/min": "111.47 meters/min",
+      "sprints_per_minute": "1.33 sprints/min",
+      "sprints_per_player": "2.22 sprints/player",
+      "distance_per_minute": "1003.26 meters/min",
+      "avg_sprint_distance": "752.44 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "24 sprints",
+      "total_distance": "14919.11 meters",
+      "m/min": "99.46 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.4 sprints/player",
+      "distance_per_minute": "994.61 meters/min",
+      "avg_sprint_distance": "621.63 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "28 sprints",
+      "total_distance": "19021.5 meters",
+      "m/min": "98.66 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "2.55 sprints/player",
+      "distance_per_minute": "1268.1 meters/min",
+      "avg_sprint_distance": "679.34 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Jin-Hyeon Kim",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 96
+      }
+    },
+    "Defender": {
+      "name": "Kakeru Funaki",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 4,
+        "Interceptions": 0,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Hiroaki Okuno",
+      "stats": {
+        "Completed Passes": 97,
+        "Carries into Final Third": 12,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "João Victor da Vitória Fernandes",
+      "stats": {
+        "Goals": 1,
+        "Assists": 0,
+        "Key Passes": 0,
+        "Carries into Box": 4
+      }
+    }
+  }
+}

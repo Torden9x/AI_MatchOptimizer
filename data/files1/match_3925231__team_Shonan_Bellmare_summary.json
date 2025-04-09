@@ -1,0 +1,312 @@
+{
+  "match_id": "3925231",
+  "team": "Shonan Bellmare",
+  "formation": "442",
+  "key_tactical_patterns": [
+    "Tactical shape: 442 with 840 actions in the middle third",
+    "Penalty box threat: 27 entries and 31 carries into area",
+    "Vertical progression: 93 carries into final third and 147 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 58 zone actions, including 0 key passes and 0 assists"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To right - Short - Ground Pass": 23,
+        "Midfield third - Center - To left - Short - Ground Pass": 22,
+        "Midfield third - Right - To left - Short - Ground Pass": 19
+      },
+      "pass_types": {
+        "Recovery": 55,
+        "Throw-in": 24,
+        "Corner": 3,
+        "Free Kick": 13,
+        "Goal Kick": 7,
+        "Long": 55,
+        "Short": 291,
+        "Defensive": 85,
+        "Center": 111,
+        "Attacking": 81
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 389,
+        "accurate_passes": 277,
+        "inaccurate_passes": 112,
+        "progressive_passes": 147,
+        "progressive_accurate": 77,
+        "progressive_inaccurate": 70
+      },
+      "progressive_pass_possession_percentage": 55.09,
+      "progressive_passes_total": 147,
+      "progressive_passes_accurate": 77,
+      "progressive_passes_inaccurate": 70
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 295,
+        "Final Third - Center": 87,
+        "Final Third - Left": 81
+      },
+      "box_entries": 27,
+      "goal_assists": 0,
+      "shot_assists": 4
+    },
+    "defense": {
+      "offensive_blocks": 2,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 1,
+      "aerial_pass_duels_won": 13,
+      "duel_types": {
+        "Tackle": 24,
+        "Aerial Lost": 19
+      },
+      "interception_outcomes": {
+        "Won": 4,
+        "Success In Play": 4,
+        "Lost In Play": 3,
+        "Lost Out": 2
+      },
+      "fifty_fifty_outcomes": {
+        "Success To Team": 2,
+        "Lost": 1,
+        "Won": 1
+      },
+      "fouls_won_defensively": 4
+    },
+    "movement": {
+      "first_half_sprints": 48,
+      "second_half_sprints": 47,
+      "sprint_intensity_drop_pct": 2.08,
+      "high_accelerations": 275,
+      "total_running_distance": 99648.64,
+      "under_pressure_actions": 321,
+      "counterpress_actions": 51,
+      "avg_intensity_m_per_min": 100.14,
+      "summary_text": {
+        "first_half_sprints": "48 sprints",
+        "second_half_sprints": "47 sprints",
+        "sprint_intensity_drop": "2.1%",
+        "total_distance": "99648.64 meters",
+        "avg_intensity": "100.14 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 3,
+      "free_kick_passes": 13,
+      "throw_in_passes": 24,
+      "through_balls": 0,
+      "dummy_passes": 0,
+      "cutback_passes": 0,
+      "crosses": 9,
+      "pass_techniques": {
+        "Straight": 1,
+        "Outswinging": 1
+      },
+      "inswingers": 0,
+      "crosses_total": 9,
+      "cutbacks": 0,
+      "straight_passes": 1,
+      "offensive_recoveries": 0,
+      "shots_deflected": 0,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1204.59,
+      "into_final_third": 93,
+      "into_penalty_box": 31,
+      "into_zone_14": 9,
+      "leads_to_shot": 0,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 4
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 1,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 0,
+      "foul_types": {},
+      "cards": {}
+    },
+    "shots": {
+      "xG_total": 0.39,
+      "xGOT_total": 0.26,
+      "shot_types": {
+        "Open Play": 9
+      },
+      "shot_outcomes": {
+        "Blocked": 6,
+        "Goal": 1,
+        "Off T": 1,
+        "Post": 1
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Shonan Bellmare displayed a 442 formation. Tactical highlights include: Tactical shape: 442 with 840 actions in the middle third, Penalty box threat: 27 entries and 31 carries into area, Vertical progression: 93 carries into final third and 147 progressive passes, High counterpressing volume, Zone 14 dominance: 58 zone actions, including 0 key passes and 0 assists.",
+  "lineup": [
+    {
+      "jersey": 2,
+      "name": "Daiki Sugioka",
+      "position": "LB"
+    },
+    {
+      "jersey": 5,
+      "name": "Satoshi Tanaka",
+      "position": "LDM"
+    },
+    {
+      "jersey": 11,
+      "name": "Lukian Araújo de Almeida",
+      "position": "LCF"
+    },
+    {
+      "jersey": 13,
+      "name": "Taiyou Hiraoka",
+      "position": "LM"
+    },
+    {
+      "jersey": 14,
+      "name": "Akimi Barada",
+      "position": "RDM"
+    },
+    {
+      "jersey": 18,
+      "name": "Masaki Ikeda",
+      "position": "RM"
+    },
+    {
+      "jersey": 22,
+      "name": "Kazuki Oiwa",
+      "position": "RCB"
+    },
+    {
+      "jersey": 23,
+      "name": "Daiki Tomii",
+      "position": "GK"
+    },
+    {
+      "jersey": 29,
+      "name": "Akito Suzuki",
+      "position": "RCF"
+    },
+    {
+      "jersey": 37,
+      "name": "Yuto Suzuki",
+      "position": "RB"
+    },
+    {
+      "jersey": 47,
+      "name": "Min-Tae Kim",
+      "position": "LCB"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "29 sprints",
+      "total_distance": "16856.22 meters",
+      "m/min": "112.37 meters/min",
+      "sprints_per_minute": "1.93 sprints/min",
+      "sprints_per_player": "2.9 sprints/player",
+      "distance_per_minute": "1123.75 meters/min",
+      "avg_sprint_distance": "581.25 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "19 sprints",
+      "total_distance": "17395.92 meters",
+      "m/min": "115.97 meters/min",
+      "sprints_per_minute": "1.27 sprints/min",
+      "sprints_per_player": "1.9 sprints/player",
+      "distance_per_minute": "1159.73 meters/min",
+      "avg_sprint_distance": "915.57 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "21 sprints",
+      "total_distance": "18476.88 meters",
+      "m/min": "114.41 meters/min",
+      "sprints_per_minute": "1.4 sprints/min",
+      "sprints_per_player": "2.1 sprints/player",
+      "distance_per_minute": "1231.79 meters/min",
+      "avg_sprint_distance": "879.85 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "33 sprints",
+      "total_distance": "15458.37 meters",
+      "m/min": "103.06 meters/min",
+      "sprints_per_minute": "2.2 sprints/min",
+      "sprints_per_player": "3.3 sprints/player",
+      "distance_per_minute": "1030.56 meters/min",
+      "avg_sprint_distance": "468.44 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "14 sprints",
+      "total_distance": "8959.24 meters",
+      "m/min": "77.82 meters/min",
+      "sprints_per_minute": "0.93 sprints/min",
+      "sprints_per_player": "1.75 sprints/player",
+      "distance_per_minute": "597.28 meters/min",
+      "avg_sprint_distance": "639.95 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "22 sprints",
+      "total_distance": "13934.56 meters",
+      "m/min": "84.6 meters/min",
+      "sprints_per_minute": "1.47 sprints/min",
+      "sprints_per_player": "2.44 sprints/player",
+      "distance_per_minute": "928.97 meters/min",
+      "avg_sprint_distance": "633.39 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Daiki Tomii",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 58
+      }
+    },
+    "Defender": {
+      "name": "Daiki Sugioka",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": true,
+        "Interceptions": 1,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Akimi Barada",
+      "stats": {
+        "Completed Passes": 101,
+        "Carries into Final Third": 8,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Akito Suzuki",
+      "stats": {
+        "Goals": 0,
+        "Assists": 0,
+        "Key Passes": 1,
+        "Carries into Box": 3
+      }
+    }
+  }
+}

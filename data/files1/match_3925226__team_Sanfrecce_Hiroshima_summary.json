@@ -1,0 +1,319 @@
+{
+  "match_id": "3925226",
+  "team": "Sanfrecce Hiroshima",
+  "formation": "3421",
+  "key_tactical_patterns": [
+    "Created 2.67 xG",
+    "Tactical shape: 3421 with 0 actions in the middle third",
+    "Penalty box threat: 46 entries and 42 carries into area",
+    "Vertical progression: 110 carries into final third and 180 progressive passes",
+    "High counterpressing volume",
+    "Zone 14 dominance: 100 zone actions, including 5 key passes and 0 assists",
+    "Final third territorial dominance: 644 actions in this area"
+  ],
+  "detailed_tactical_analysis": {
+    "possession": {
+      "pass_clusters": {
+        "Midfield third - Center - To left - Short - Ground Pass": 22,
+        "Midfield third - Right - To left - Short - Ground Pass": 21,
+        "Defensive third - Center - Forwards - Long - High Pass": 20
+      },
+      "pass_types": {
+        "Recovery": 61,
+        "Throw-in": 22,
+        "Corner": 9,
+        "Free Kick": 7,
+        "Goal Kick": 6,
+        "Long": 52,
+        "Short": 353,
+        "Defensive": 90,
+        "Center": 124,
+        "Attacking": 120
+      },
+      "pass_accuracy_breakdown": {
+        "total_passes": 444,
+        "accurate_passes": 319,
+        "inaccurate_passes": 125,
+        "progressive_passes": 180,
+        "progressive_accurate": 107,
+        "progressive_inaccurate": 73
+      },
+      "progressive_pass_possession_percentage": 58.06,
+      "progressive_passes_total": 180,
+      "progressive_passes_accurate": 107,
+      "progressive_passes_inaccurate": 73
+    },
+    "attack": {
+      "preferred_attack_zones": {
+        "Final Third - Right": 335,
+        "Final Third - Center": 168,
+        "Final Third - Left": 141
+      },
+      "box_entries": 46,
+      "goal_assists": 1,
+      "shot_assists": 18
+    },
+    "defense": {
+      "offensive_blocks": 0,
+      "goal_saving_blocks": 0,
+      "headers_on_shots": 2,
+      "aerial_pass_duels_won": 16,
+      "duel_types": {
+        "Aerial Lost": 16,
+        "Tackle": 15
+      },
+      "interception_outcomes": {
+        "Lost Out": 5,
+        "Won": 4,
+        "Lost In Play": 2,
+        "Success In Play": 1
+      },
+      "fifty_fifty_outcomes": {
+        "Lost": 1,
+        "Success To Opposition": 1
+      },
+      "fouls_won_defensively": 4
+    },
+    "movement": {
+      "first_half_sprints": 52,
+      "second_half_sprints": 61,
+      "sprint_intensity_drop_pct": -17.31,
+      "high_accelerations": 285,
+      "total_running_distance": 106563.54,
+      "under_pressure_actions": 311,
+      "counterpress_actions": 59,
+      "avg_intensity_m_per_min": 103.26,
+      "summary_text": {
+        "first_half_sprints": "52 sprints",
+        "second_half_sprints": "61 sprints",
+        "sprint_intensity_drop": "-17.3%",
+        "total_distance": "106563.54 meters",
+        "avg_intensity": "103.26 meters/min"
+      }
+    },
+    "special_plays": {
+      "corner_passes": 9,
+      "free_kick_passes": 7,
+      "throw_in_passes": 22,
+      "through_balls": 1,
+      "dummy_passes": 0,
+      "cutback_passes": 2,
+      "crosses": 12,
+      "pass_techniques": {
+        "Outswinging": 7,
+        "Inswinging": 1,
+        "Straight": 1
+      },
+      "inswingers": 1,
+      "crosses_total": 12,
+      "cutbacks": 2,
+      "straight_passes": 1,
+      "offensive_recoveries": 0,
+      "shots_deflected": 1,
+      "open_goal_shots": 0
+    },
+    "carries": {
+      "total_carry_distance": 1661.12,
+      "into_final_third": 110,
+      "into_penalty_box": 42,
+      "into_zone_14": 23,
+      "leads_to_shot": 2,
+      "leads_to_goal": 0,
+      "dispossessed_at_end": 2
+    },
+    "goalkeeper": {
+      "shots_saved_to_post": 0,
+      "keeper_saved_to_post": 0,
+      "keeper_lost_out": 0,
+      "keeper_lost_in_play": 0,
+      "keeper_success_out": 0,
+      "keeper_success_in_play": 0,
+      "saved_off_target": 0,
+      "punches": 0
+    },
+    "discipline": {
+      "fouls_played_through": 2,
+      "fouls_won_advantage_played": 0,
+      "offensive_fouls": 0,
+      "penalties_conceded": 0,
+      "penalties_won": 1,
+      "foul_types": {},
+      "cards": {
+        "Yellow Card": 1
+      }
+    },
+    "shots": {
+      "xG_total": 2.67,
+      "xGOT_total": 3.03,
+      "shot_types": {
+        "Open Play": 25,
+        "Penalty": 1,
+        "Free Kick": 1
+      },
+      "shot_outcomes": {
+        "Off T": 9,
+        "Saved": 9,
+        "Blocked": 4,
+        "Wayward": 3,
+        "Goal": 2
+      }
+    },
+    "spatial": {}
+  },
+  "summary": "Sanfrecce Hiroshima displayed a 3421 formation. Tactical highlights include: Created 2.67 xG, Tactical shape: 3421 with 0 actions in the middle third, Penalty box threat: 46 entries and 42 carries into area, Vertical progression: 110 carries into final third and 180 progressive passes, High counterpressing volume, Zone 14 dominance: 100 zone actions, including 5 key passes and 0 assists, Final third territorial dominance: 644 actions in this area.",
+  "lineup": [
+    {
+      "jersey": 1,
+      "name": "Keisuke Osako",
+      "position": "GK"
+    },
+    {
+      "jersey": 4,
+      "name": "Hayato Araki",
+      "position": "CB"
+    },
+    {
+      "jersey": 8,
+      "name": "Takumu Kawamura",
+      "position": "LDM"
+    },
+    {
+      "jersey": 11,
+      "name": "Makoto Mitsuta",
+      "position": "RDM"
+    },
+    {
+      "jersey": 15,
+      "name": "Shuto Nakano",
+      "position": "RWB"
+    },
+    {
+      "jersey": 19,
+      "name": "Sho Sasaki",
+      "position": "LCB"
+    },
+    {
+      "jersey": 20,
+      "name": "Pieros Soteriou",
+      "position": "ST"
+    },
+    {
+      "jersey": 24,
+      "name": "Shunki Higashi",
+      "position": "LWB"
+    },
+    {
+      "jersey": 33,
+      "name": "Tsukasa Shiotani",
+      "position": "RCB"
+    },
+    {
+      "jersey": 51,
+      "name": "Mutsuki Kato",
+      "position": "LAM"
+    },
+    {
+      "jersey": 77,
+      "name": "Yuki Ohashi",
+      "position": "RAM"
+    }
+  ],
+  "physical_phases": [
+    {
+      "phase": "1'-15'",
+      "count_sprint": "28 sprints",
+      "total_distance": "18505.97 meters",
+      "m/min": "123.37 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "2.8 sprints/player",
+      "distance_per_minute": "1233.73 meters/min",
+      "avg_sprint_distance": "660.93 meters"
+    },
+    {
+      "phase": "16'-30'",
+      "count_sprint": "24 sprints",
+      "total_distance": "12075.94 meters",
+      "m/min": "89.45 meters/min",
+      "sprints_per_minute": "1.6 sprints/min",
+      "sprints_per_player": "2.67 sprints/player",
+      "distance_per_minute": "805.06 meters/min",
+      "avg_sprint_distance": "503.16 meters"
+    },
+    {
+      "phase": "31'-45+'",
+      "count_sprint": "27 sprints",
+      "total_distance": "22010.05 meters",
+      "m/min": "108.07 meters/min",
+      "sprints_per_minute": "1.8 sprints/min",
+      "sprints_per_player": "2.7 sprints/player",
+      "distance_per_minute": "1467.34 meters/min",
+      "avg_sprint_distance": "815.19 meters"
+    },
+    {
+      "phase": "46'-60'",
+      "count_sprint": "28 sprints",
+      "total_distance": "12904.17 meters",
+      "m/min": "95.59 meters/min",
+      "sprints_per_minute": "1.87 sprints/min",
+      "sprints_per_player": "3.11 sprints/player",
+      "distance_per_minute": "860.28 meters/min",
+      "avg_sprint_distance": "460.86 meters"
+    },
+    {
+      "phase": "61'-75'",
+      "count_sprint": "33 sprints",
+      "total_distance": "14440.76 meters",
+      "m/min": "97.4 meters/min",
+      "sprints_per_minute": "2.2 sprints/min",
+      "sprints_per_player": "3.0 sprints/player",
+      "distance_per_minute": "962.72 meters/min",
+      "avg_sprint_distance": "437.6 meters"
+    },
+    {
+      "phase": "76'-120+'",
+      "count_sprint": "37 sprints",
+      "total_distance": "23175.1 meters",
+      "m/min": "105.67 meters/min",
+      "sprints_per_minute": "2.47 sprints/min",
+      "sprints_per_player": "3.36 sprints/player",
+      "distance_per_minute": "1545.01 meters/min",
+      "avg_sprint_distance": "626.35 meters"
+    }
+  ],
+  "best_players_by_position": {
+    "Goalkeeper": {
+      "name": "Keisuke Osako",
+      "stats": {
+        "Saves": 0,
+        "Completed Passes": 81
+      }
+    },
+    "Defender": {
+      "name": "Hayato Araki",
+      "stats": {
+        "Duels Won": 0,
+        "Aerial Clearances": 2,
+        "Interceptions": 1,
+        "Fouls Committed": 0
+      }
+    },
+    "Midfielder": {
+      "name": "Makoto Mitsuta",
+      "stats": {
+        "Completed Passes": 227,
+        "Carries into Final Third": 20,
+        "Interceptions": 0,
+        "Duels Won": 0
+      }
+    },
+    "Forward": {
+      "name": "Mutsuki Kato",
+      "stats": {
+        "Goals": 0,
+        "Assists": 1,
+        "Key Passes": 2,
+        "Carries into Box": 8
+      }
+    }
+  }
+}
