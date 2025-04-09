@@ -8,3 +8,4 @@ scipy
 streamlit
 rapidfuzz
 typing 
+OpenAI
