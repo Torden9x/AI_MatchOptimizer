@@ -6,3 +6,5 @@ highlight-text
 unidecode
 scipy
 streamlit
+rapidfuzz
+typing 
