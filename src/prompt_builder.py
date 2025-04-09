@@ -7,7 +7,7 @@ from src.tactical_summary_builder import build_tactical_summary
 from glob import glob
 
 # Folder where all match files are stored
-DATA_DIR = "\data\files1"
+DATA_DIR = "data/files1/"
 
 
 def read_json(file_path: str) -> str:
