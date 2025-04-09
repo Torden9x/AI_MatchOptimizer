@@ -1,7 +1,7 @@
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
-
+print("🔐 API Key:", os.getenv("OPENAI_API_KEY"))
 # Load the .env file
 load_dotenv(".env.ai_opta")
 
