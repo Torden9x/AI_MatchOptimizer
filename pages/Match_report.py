@@ -41,7 +41,7 @@ pearl_earring_cmapa = LinearSegmentedColormap.from_list("Pearl Earring - 10 colo
 path_eff1 = [path_effects.Stroke(linewidth=1.5, foreground=line_color), path_effects.Normal()]
 plt.rcParams['figure.facecolor'] = bg_color
 
-event_data_dir = r"C:\Users\lahd2\Downloads\Aimatch\Ai\Stat"
+event_data_dir = "Stat\"
 match_info_path = os.path.join(event_data_dir, "match_info.csv")
 def load_match_info():
     df = pd.read_csv(match_info_path)
