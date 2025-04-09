@@ -4,11 +4,11 @@ import streamlit as st
 st.set_page_config(layout="wide", page_title="AI MatchOptimizer", page_icon="⚽")
 
 # Title
-st.title("⚽ AI MatchOptimizer")
+st.title("⚽ ArenaMindr")
 
 # Project Description
 st.markdown("""
-Welcome to **AI MatchOptimizer** — a smart football analysis platform built to turn raw match data into tactical insights.
+Welcome to **ArenaMind** — a smart football analysis platform built to turn raw match data into tactical insights.
 
 ### 🎯 About the Project
 **AI MatchOptimizer** helps analysts, coaches, and scouts unlock match intelligence using data-driven visualizations and an AI-powered football chatbot.
