@@ -71,7 +71,7 @@ selected_match_file = match_info_df.loc[match_info_df["match_name"] == selected_
 selected_match_path = os.path.join(event_data_dir, selected_match_file)
 
 if selected_match_path:
-    df = pd.read_csv(os.path.join(event_data_dir, selected_match_path))
+    df = pd.read_csv(selected_match_path)
     st.sidebar.success("Match loaded successfully!")
 
     # Extract teams
