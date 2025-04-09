@@ -1,0 +1,26 @@
+# Ignore environment variables and sensitive keys
+.env
+
+# Ignore Python cache and virtual envs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env/
+env/
+venv/
+
+# Ignore data files
+*.csv
+*.parquet
+*.zip
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore large system files
+.DS_Store
+Thumbs.db
