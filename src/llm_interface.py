@@ -1,15 +1,11 @@
 from openai import OpenAI
-from dotenv import load_dotenv
-import os
-# Load the .env file
-load_dotenv()
-print("🔐 API Key:", os.getenv("OPENAI_API_KEY"))
+import streamlit as st
 
-# Get the API key from environment
-api_key = os.getenv("OPENAI_API_KEY")
+# Use Streamlit secret
+api_key = st.secrets["OPENAI_API_KEY"]
 
-# Create the client with the key
 client = OpenAI(api_key=api_key)
+
 
 
 def generate_answer(prompt: str, max_tokens: int = 3000) -> str:
